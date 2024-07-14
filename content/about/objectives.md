@@ -4,7 +4,7 @@ title: "Objectives"
 weight: 90
 ---
 
-## Overarching Goal of the HDR Ecosystem Activities
+## Harnessing the Data Revolution (HDR) Ecosystem Activities
 
 The overaching goal of the HDR Ecosystem Conference series is to empower a coherent and sustainable HDR Ecosystem that is much more than the sum of its parts through synergistic activities and the sharing of experiences, perspectives, and planning
 
