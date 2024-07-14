@@ -158,4 +158,7 @@ footer:
     url: https://x.com/a3d3institute
     pre: x-twitter
     weight: 130
-  
+  - name: Youtube
+    url: https://www.youtube.com/channel/UCozE47hFawTUb4lUhYlQNIQ
+    pre: youtube
+    weight: 140

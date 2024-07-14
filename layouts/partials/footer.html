@@ -31,19 +31,25 @@
         </p>
 
         <p class="text-sm text-neutral-500 dark:text-neutral-400 px-4 pb-2">
-          This conference is supported by award #XXXX from the National Science Foundation and is hosted by the A3D3 Institute and the University of Illinois Urbana-Champaign High Energy Physics Group</a>
+          This conference is supported by <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2117997" target="_blank" rel="noopener noreferrer">award PHY-2117997</a> from the <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500" href="https://www.nsf.gov" target="_blank" rel="noopener noreferrer">National Science Foundation</a> and is hosted by the <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500" href="https://a3d3.ai" target="_blank" rel="noopener noreferrer">A3D3 Institute</a> and the <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500" href="https://physics.illinois.edu/research/groups-and-centers/high-energy-physics" target="_blank" rel="noopener noreferrer">University of Illinois Urbana-Champaign High Energy Physics Group</a>
         </p>
 
         <p class="pr-4 pb-2">
           {{ with resources.Get "images/logos/A3D3.png" }}
-              <img src="{{ .RelPermalink }}" alt="A3D3 Logo" width="60" style="vertical-align:middle; margin-right: 60px" />
+              <img src="{{ .RelPermalink }}" alt="A3D3 Logo" width="60" style="vertical-align:middle; margin-right: 70px" />
           {{ end }}
-
-          <p class="pr-4 pb-2">
+        </p>
+        <p class="pr-4 pb-2">
             {{ with resources.Get "images/logos/Illinois.png" }}
-                <img src="{{ .RelPermalink }}" alt="Illinois Logo" width="60" style="vertical-align:middle" />
+                <img src="{{ .RelPermalink }}" alt="Illinois Logo" width="40" style="vertical-align:middle; margin-right: 80px" />
             {{ end }}
-  
+        </p>
+        <!-- <p class="pr-4 pb-2">
+          {{ with resources.Get "images/misc/QR.png" }}
+              <img src="{{ .RelPermalink }}" alt="Conference QR" width="100" style="vertical-align:middle" />
+          {{ end }}
+        </p> -->
+
         {{/* Copyright */}}
         {{ if .Site.Params.footer.showCopyright | default true }}
         <p class="text-sm text-neutral-500 dark:text-neutral-400 pl-4 pb-2">
