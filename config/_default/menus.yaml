@@ -143,30 +143,19 @@ main:
 
 footer:
   - name: Email
-    url: mailto:everse-request@lists.certh.gr
+    url: mailto:msn@illinois.edu
     pre: email
     weight: 100
   - name: GitHub
-    url: https://github.com/EVERSE-ResearchSoftware
+    url: https://github.com/HDR-Ecosystem
     pre: github
     weight: 110
   - name: LinkedIn
-    url: https://www.linkedin.com/company/eosc-everse
+    url: https://www.linkedin.com/company/a3d3
     pre: linkedin
     weight: 120
-  # - name: Mastodon
-  #   url: https://mastodon.instance/@username
-  #   pre: mastodon
-  #   weight: 110
   - name: X-Twitter
-    url: https://twitter.com/eosc_everse
+    url: https://x.com/a3d3institute
     pre: x-twitter
     weight: 130
-  - name: FOSStodon
-    url: https://fosstodon.org/@eosc_everse
-    pre: mastodon
-    weight: 135
-  - name: Zenodo
-    url: https://zenodo.org/communities/everse
-    pre: zenodo
-    weight: 140
+  
