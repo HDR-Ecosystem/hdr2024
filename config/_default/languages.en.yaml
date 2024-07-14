@@ -1,7 +1,7 @@
 languageCode: en
 languageName: English
 weight: 1
-title: EVERSE
+title: 2024 NSF HDR Ecosystem Conference
 
 params:
   displayName: EN
@@ -10,6 +10,6 @@ params:
   dateFormat: 2 January 2006
 
 author:
-  name: The EVERSE Project
+  name: 
   links:
-    - github: https://github.com/EVERSE-ResearchSoftware
+#    - github: https://github.com/EVERSE-ResearchSoftware
