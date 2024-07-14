@@ -34,7 +34,7 @@ defaultBackgroundImage: "images/background/Splash.png" # used as default for bac
 # smartTOC: true
 # smartTOCHideUnfocusedChildren: true
 
-logo: images/logos/2024_HDR_Ecosystem_Logo_Small.png
+logo: images/logos/2024_HDR_Ecosystem_Logo.png
 
 header:
   layout: fixed-fill # valid options: basic, fixed, fixed-fill, fixed-fill-blur
