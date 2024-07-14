@@ -9,7 +9,7 @@
 colorScheme: blowfish
 
 # Allow switching between light and dark modes
-defaultAppearance: light
+defaultAppearance: dark
 autoSwitchAppearance: false
 
 enableSearch: true
@@ -23,11 +23,11 @@ mainSections:
 # Image optimisation breaks as we have SVG images
 # The real fix is to disable the optimisation only for SVGs and allow optimisation proceed
 # for other image types
-disableImageOptimization: true
+disableImageOptimization: false
 disableTextInHeader: false
 disableImageZoom: true
 
-defaultBackgroundImage: "Splash.png" # used as default for background images
+defaultBackgroundImage: "images/background/Splash.png" # used as default for background images
 # defaultFeaturedImage: "IMAGE.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea: true
