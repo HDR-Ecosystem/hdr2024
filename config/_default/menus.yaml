@@ -154,7 +154,7 @@ footer:
     url: https://www.linkedin.com/company/a3d3
     pre: linkedin
     weight: 120
-  - name: X-Twitter
+  - name: Twitter
     url: https://x.com/a3d3institute
     pre: x-twitter
     weight: 130

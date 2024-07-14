@@ -3,8 +3,8 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
-title: EVERSE
-description: This is the EVERSE website
+title: 2024 HDR Ecosystem Conference
+description: This is the 2024 Ecosystem Conference website
 
 show_downloads: false
-# google_analytics: [Your Google Analytics tracking ID]
+#google_analytics: [Your Google Analytics tracking ID]
