@@ -5,7 +5,8 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme: everse
+#colorScheme: everse
+colorScheme: blowfish
 
 # Allow switching between light and dark modes
 defaultAppearance: light
@@ -26,14 +27,14 @@ disableImageOptimization: true
 disableTextInHeader: false
 disableImageZoom: true
 
-# defaultBackgroundImage: "IMAGE.jpg" # used as default for background images 
+defaultBackgroundImage: "Splash.png" # used as default for background images
 # defaultFeaturedImage: "IMAGE.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea: true
 # smartTOC: true
 # smartTOCHideUnfocusedChildren: true
 
-logo: images/logos/EOSCEverse_PosColour.svg
+logo: images/logos/2024_HDR_Ecosystem_Logo_Small.png
 
 header:
   layout: fixed-fill # valid options: basic, fixed, fixed-fill, fixed-fill-blur
@@ -46,15 +47,15 @@ footer:
   showScrollToTop: true
 
 homepage:
-  layout: page # valid options: page, profile, hero, card, background, custom
-  #homepageImage: "IMAGE.jpg" # used in: hero, and card
+  layout: background # valid options: page, profile, hero, card, background, custom
+  homepageImage: "images/background/Splash.svg" # used in: hero, and card
   showRecent: true
   showRecentItems: 2 # Keep this ~<4, but adjust to make sure relevant articles are highlighted
   showMoreLink: false
   showMoreLinkDest: /posts
   cardView: false
   cardViewScreenWidth: false
-  layoutBackgroundBlur: false  # only used when layout equals background
+  layoutBackgroundBlur: background  # only used when layout equals background
 
 article:
   showDate: false
