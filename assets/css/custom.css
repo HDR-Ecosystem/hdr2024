@@ -1,0 +1,9 @@
+/*! Custom site CSS */
+
+.center {
+    text-align: center;
+}
+
+.max-w-prose {
+    max-width:100ch
+}

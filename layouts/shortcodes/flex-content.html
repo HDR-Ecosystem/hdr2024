@@ -1,0 +1,11 @@
+<div class="flex justify-evenly flex-col sm:flex-row">
+  {{- range split .Inner "<--->" }}
+    <div class="p-4">
+      {{ if strings.Contains . "<figure >" }}
+        {{ . | safeHTML -}}
+      {{ else }}
+        {{ . | markdownify | safeHTML -}}
+      {{ end }}
+    </div>
+  {{- end }}
+</div>
