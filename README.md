@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the source for the EVERSE website. The website is built with the [Hugo](https://gohugo.io) static website engine and the [Blowfish theme](https://blowfish.page).
+This is the source for the 2024 NSF HDR Ecosystem website. The website is built with the [Hugo](https://gohugo.io) static website engine and the [Blowfish theme](https://blowfish.page).
 
 ### Directory Layout
 
