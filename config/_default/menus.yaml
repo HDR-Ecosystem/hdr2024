@@ -15,131 +15,103 @@ main:
   # About tab
   - name: About
     weight: 10
-  - name: Objectives
-    pageRef: about/objectives
+  - name: HDR Ecosystem
+    pageRef: about/hdr
     weight: 10
     parent: About
-  - name: Consortium
-    pageRef: about/consortium
+  - name: Conference Series
+    pageRef: about/series
     weight: 20
     parent: About
-  - name: Scientific Advisory Board
-    pageRef: about/scientific-advisory-board
+  - name: Objectives
+    pageRef: about/objectives
     weight: 25
     parent: About
-  - name: Workpackage Overview
-    pageRef: /workpackages
+  - name: Code-of-Conduct
+    pageRef: /about/coc
     weight: 30
     parent: About
-    identifer: workpackages
-  - name: WP1 - Network
-    pageRef: workpackages/01_Framework_European_Network
+  - name: Organizing Committee
+    pageRef: /about/committee
+    weight: 30
+    parent: About
+  - name: Staff
+    pageRef: /about/staff
+    weight: 30
+    parent: About
+
+  # Speakers tab
+  - name: Speakers
+    weight: 20
+  - name: Keynote Speaker
+    weight: 10
+    pageRef: /speakers/keynote
+    parent: Speakers
+  - name: Public Lecture
+    weight: 10
+    pageRef: /speakers/public
+    parent: Speakers
+  - name: Plenary
+    weight: 10
+    pageRef: /speakers/plenary
+    parent: Speakers
+
+  # Agenda tab
+  - name: Agenda
+    weight: 30
+  - name: At-a-Glance
+    weight: 10
+    pageRef: agenda/at-a-glance
+    parent: Agenda
+  - name: Detailed (Indico)
+    weight: 10
+    pageRef: https://indico.cern.ch/event/1364455/timetable
+    parent: Agenda
+
+  # Practical tab
+  - name: Practical
     weight: 40
-    identifer: WP1
-    parent: About
-  - name: WP2 - Best Practice
-    pageRef: workpackages/02_Best_Practices
-    weight: 50
-    identifer: WP2
-    parent: About
-  - name: WP3 - Tools and Services
-    pageRef: workpackages/03_Tools_and_Services
-    weight: 60
-    identifer: WP3
-    parent: About
-  - name: WP4 - Pilots and Drivers
-    pageRef: workpackages/04_Pilots_and_Drivers
-    weight: 70
-    identifer: WP4
-    parent: About
-  - name: WP5 - Capacity and Recognition
-    pageRef: workpackages/05_Capacity_and_Recognition
-    weight: 80
-    identifer: WP5
-    parent: About
-  - name: WP6 - Project Management
-    pageRef: workpackages/06_Project_Management
-    weight: 90
-    identifer: WP6
-    parent: About
+  - name: Venue
+    weight: 10
+    pageRef: /practical/venue
+    parent: Practical
+  - name: Getting Here
+    weight: 10
+    pageRef: /practical/getting-here
+    parent: Practical
+  - name: Parking
+    weight: 10
+    pageRef: /practical/parking
+    parent: Practical
+  - name: Accommodation
+    weight: 10
+    pageRef: /practical/accommodation
+    parent: Practical
+  - name: Getting Around
+    weight: 10
+    pageRef: /practical/getting-around
+    parent: Practical
+  - name: Restaurants
+    weight: 10
+    pageRef: /practical/restaurants
+    parent: Practical
 
   # Services tab
   - name: Services
-    weight: 20
-  - name: RSQkit
+    weight: 50
+  - name: Videoconferencing
     weight: 10
-    pageRef: services/RSQkit
+    pageRef: /practical/videoconferencing
     parent: Services
-  # - name: SMP
-  #   weight: 20
-  #   pageRef: services/SMP
-  #   parent: Services
-
-  # Training tab
-  - name: Training
-    weight: 30
-  - name: Training Events
+  - name: Captioning
     weight: 10
-    pageRef: training/events
-    parent: Training
-  # - name: Training Materials
-  #   weight: 20
-  #   pageRef: training/material
-  #   parent: Training
-  # - name: Recognition
-  #   weight: 30
-  #   pageRef: training/recognition
-  #   parent: Training
-
-  # Resources tab
-  - name: Resources
-    weight: 40
-  # - name: Deliverables and Milestones
-  #   weight: 10
-  #   pageRef: resources/deliverables_milestones
-  #   parent: Resources
-  - name: Presentations
-    weight: 20
-    pageRef: resources/presentations
-    parent: Resources
-  - name: Visual Identity
-    weight: 30
-    pageRef: resources/visual_identity
-    parent: Resources
-  - name: Promotions
-    weight: 35
-    pageRef: resources/promotion
-    parent: Resources
-  # - name: Zotero and Zenodo
-  #   weight: 40
-  #   pageRef: resources/zetoro_zenodo
-  #   parent: Resources
-
-  # Network tab
-  # - name: Network
-  #   weight: 50
-  # - name: Communities
-  #   weight: 10
-  #   pageRef: network/communities
-  #   parent: Network
-  # - name: Competence Centres
-  #   weight: 20
-  #   pageRef: network/competence_centres
-  #   parent: Network
+    pageRef: /practical/captioning
+    parent: Services
   
-  # Participate tab
-  - name: Participate
+  # Registration tab
+  - name: Registration
     weight: 60
-  - name: How to Join
-    pageRef: participate/how_to_join
-    weight: 10
-    parent: Participate
-
-  # News tab
-  - name: News
-    weight: 70
-    pageRef: news
-
+    pageRef: https://indico.cern.ch/event/1364455/registration
 
 footer:
   - name: Email
