@@ -1,4 +1,4 @@
-# EVERSE Website
+# 2024 NSF HDR Ecosystem Conference Website
 
 ## Overview
 
