@@ -25,19 +25,19 @@ main:
     parent: About
   - name: Objectives
     pageRef: about/objectives
-    weight: 25
+    weight: 30
     parent: About
   - name: Code-of-Conduct
     pageRef: /about/coc
-    weight: 30
+    weight: 40
     parent: About
   - name: Organizing Committee
     pageRef: /about/committee
-    weight: 30
+    weight: 50
     parent: About
-  - name: Staff
+  - name: Conference Staff
     pageRef: /about/staff
-    weight: 30
+    weight: 60
     parent: About
 
   # Speakers tab
@@ -48,53 +48,53 @@ main:
     pageRef: /speakers/keynote
     parent: Speakers
   - name: Public Lecture
-    weight: 10
+    weight: 20
     pageRef: /speakers/public
     parent: Speakers
   - name: Plenary
-    weight: 10
+    weight: 30
     pageRef: /speakers/plenary
     parent: Speakers
 
   # Agenda tab
   - name: Agenda
-    weight: 30
-  - name: At-a-Glance
     weight: 10
+  - name: At-a-Glance
+    weight: 20
     pageRef: agenda/at-a-glance
     parent: Agenda
   - name: Detailed (Indico)
-    weight: 10
+    weight: 30
     pageRef: https://indico.cern.ch/event/1364455/timetable
     parent: Agenda
 
   # Practical tab
-  - name: Practical
+  - name: Practical Info
     weight: 40
   - name: Venue
     weight: 10
     pageRef: /practical/venue
-    parent: Practical
+    parent: Practical Info
   - name: Getting Here
-    weight: 10
+    weight: 20
     pageRef: /practical/getting-here
-    parent: Practical
+    parent: Practical Info
   - name: Parking
-    weight: 10
+    weight: 30
     pageRef: /practical/parking
-    parent: Practical
+    parent: Practical Info
   - name: Accommodation
-    weight: 10
+    weight: 40
     pageRef: /practical/accommodation
-    parent: Practical
+    parent: Practical Info
   - name: Getting Around
-    weight: 10
+    weight: 50
     pageRef: /practical/getting-around
-    parent: Practical
+    parent: Practical Info
   - name: Restaurants
-    weight: 10
+    weight: 60
     pageRef: /practical/restaurants
-    parent: Practical
+    parent: Practical Info
 
   # Services tab
   - name: Services
@@ -104,7 +104,7 @@ main:
     pageRef: /practical/videoconferencing
     parent: Services
   - name: Captioning
-    weight: 10
+    weight: 20
     pageRef: /practical/captioning
     parent: Services
   
