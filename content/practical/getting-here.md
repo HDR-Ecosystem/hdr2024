@@ -33,15 +33,17 @@ Other airports have connections to major US cities which require that you make a
 | 150           | 2h 42m               | [Chicago O'Hare International Airport](https://www.flychicago.com/ohare/home/pages/default.aspx)  | ORD               |
 | 183           | 2h 45m               | [St. Louis International Airport](https://www.flystl.com)                                         | STL               |
 
+## <span style="color:Orange">By Train</span>
+
+[Amtrak](http://www.amtrak.com) provides daily rail passenger service between Champaign-Urbana and Chicago and to points south through Memphis to New Orleans. The local Amtrak Station (217-352-5905) is located in the Illinois Terminal, downtown Champaign (about 2 miles from the Siebel Center).
+Schedules and reservations may be obtained by calling the national number (800-872-7245).
+
+{{< figure src="images/locations/IllinoisTerminal.jpg" alt="Illinois Terminal" >}}
+
 ## <span style="color:Orange">By Bus</span>
 
 Greyhound Buslines and Trailways provide national and regional service to and from Champaign-Urbana.
 The Illinois Terminal is located at 45 East University Avenue in downtown Champaign. There are also shuttle services (Illini Shuttle and Peoria Charter) to and from the Chicago Airports.
-
-## <span style="color:Orange">By Train</span>
-
-Amtrak provides daily rail passenger service between Champaign-Urbana and Chicago and to points south through Memphis to New Orleans. The local Amtrak Station (217-352-5905) is located in the Illinois Terminal, downtown Champaign (about 2 miles from the Siebel Center).
-Schedules and reservations may be obtained by calling the national number (800-872-7245).
 
 ## <span style="color:Orange">By Car</span>
 
