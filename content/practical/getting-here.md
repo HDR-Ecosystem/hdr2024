@@ -5,6 +5,10 @@ display_in_summary: true
 weight: 1000
 ---
 
+The University of Illinois is located in the twin cities of Champaign and Urbana (C-U) in east-central Illinois. C-U is situated about 140 miles south of Chicago, 125 miles west of Indianapolis, and 180 miles northeast of St. Louis.
+
+{{< figure src="images/locations/Midwest.png" alt="Midwest Map" >}}
+
 ## <span style="color:Orange">By Air</span>
 
 There is one airport serving Champaign-Urbana: The University of Illinois' Willard Airport. Located approximately 4 miles from Champaign-Urbana on US-45 south of Savoy, Illinois. Service provided by American Airlines.
