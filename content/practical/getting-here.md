@@ -9,16 +9,29 @@ The University of Illinois is located in the twin cities of Champaign and Urbana
 
 {{< figure src="images/locations/Midwest.png" alt="Midwest Map" >}}
 
-## <span style="color:Orange">By Air</span>
+## <span style="color:Orange">By Airplane</span>
 
 There is one airport serving Champaign-Urbana: The University of Illinois' Willard Airport. Located approximately 4 miles from Champaign-Urbana on US-45 south of Savoy, Illinois. Service provided by American Airlines.
 
-### <span style="color:LightGreen">Other Airports within driving distance:
+### <span style="color:LightGreen">Willard Airport</span>
 
-* Chicago, Illinois - O'Hare International Airport and Midway International Airport (about 2.5 hours away)
-* Indianapolis, Indiana - Indianapolis International Airport (about 1.5 hours away) *NOTE: Indiana is EST, Illinois is CST (1 hour difference)
-* Bloomington, Illinois - Central Illinois Regional Airport (about 1 hour away)
-* St. Louis, Missouri - St. Louis International Airport (about 3.5 hours away)
+[University of Illinois Willard Airport](https://iflycu.com) (CMI) serves the Champaign-Urbana area. This airport is 5 miles from the venue and is the preferred airport for air travel to this event.
+
+{{< figure src="images/locations/Willard.jpg" alt="Willard Airport" >}}
+
+### <span style="color:LightGreen">Other nearby regional and international airports</span>
+
+Other airports have connections to major US cities which require that you make additional arrangments (e.g. bus, train, ride-share) to get from them to campus. These airports include:
+
+| Distance (mi.)| Travel time (by car) | Airport Name                                                                                      | IATA airport code |
+| :------------:| :------------------: | :------------------------------------------------------------------------------------------------ | :---------------: |
+| 51            | 58m                  | [Bloomington-Normal Regional Airport](https://cira.com)                                           | BMI               |
+| 91            | 1h 28m               | [Abraham Lincoln Capitol Airport at Springfield](https://www.flyspi.com)                          | SPI               |
+| 96            | 1h 36m               | [Peoria International Airport](https://www.flypia.com)                                            | PIA               |
+| 126           | 1h 59m               | [Indianapolis International Airport](https://www.ind.com)                                         | IND               |
+| 129           | 2h 26m               | [Chicago Midway International Airport](https://www.flychicago.com/midway/home/pages/default.aspx) | MDW               |
+| 150           | 2h 42m               | [Chicago O'Hare International Airport](https://www.flychicago.com/ohare/home/pages/default.aspx)  | ORD               |
+| 183           | 2h 45m               | [St. Louis International Airport](https://www.flystl.com)                                         | STL               |
 
 ## <span style="color:Orange">By Bus</span>
 
