@@ -11,11 +11,9 @@ The University of Illinois is located in the twin cities of Champaign and Urbana
 
 ## <span style="color:Orange">By Airplane</span>
 
-There is one airport serving Champaign-Urbana: The University of Illinois' Willard Airport. Located approximately 4 miles from Champaign-Urbana on US-45 south of Savoy, Illinois. Service provided by American Airlines.
-
 ### <span style="color:LightGreen">Willard Airport</span>
 
-[University of Illinois Willard Airport](https://iflycu.com) (CMI) serves the Champaign-Urbana area. This airport is 5 miles from the venue and is the preferred airport for air travel to this event.
+There is one airport serving Champaign-Urbana: the [University of Illinois' Willard Airport](https://iflycu.com). This airport is located 5 miles from the conference venue and is the preferred airport for air travel to this event. Service is provided by American Airlines, where there are daily flights to and from Chicago O'Hare (ORD) and Dallas/Fort Worth (DFW) airports.
 
 {{< figure src="images/locations/Willard.jpg" alt="Willard Airport" >}}
 
@@ -35,7 +33,7 @@ Other airports have connections to major US cities which require that you make a
 
 ## <span style="color:Orange">By Train</span>
 
-[Amtrak](http://www.amtrak.com) provides daily rail passenger service between Champaign-Urbana and Chicago and to points south through Memphis to New Orleans. The local Amtrak Station is located within the Illinois Terminal in downtown Champaign (2 miles from the conference venue).
+[Amtrak](http://www.amtrak.com) provides daily rail passenger service between Champaign-Urbana and Chicago and to points south through Memphis to New Orleans. These trains are a comfortable means of travel with free Wifi. The local Amtrak Station is located within the Illinois Terminal in downtown Champaign (2 miles from the conference venue).
 
 {{< figure src="images/locations/IllinoisTerminal.jpg" alt="Illinois Terminal" >}}
 
@@ -51,4 +49,4 @@ The drive between Champaign-Urbana and Chicago takes approximately 3 hours; betw
 
 ## For more information
 
-[https://www.nsf.gov/news/special_reports/big_ideas/harnessing.jsp](https://www.nsf.gov/news/special_reports/big_ideas/harnessing.jsp)
+[https://experiencecu.org/trip-planning/getting-here-around](https://experiencecu.org/trip-planning/getting-here-around)
