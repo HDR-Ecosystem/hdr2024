@@ -69,6 +69,9 @@ The Champaign-Urbana area strives to be an accessible, welcoming and enjoyable c
 * Willard Airport | [View Accessibility Information](https://iflycu.com/info/disability-information)
 * Champaign-Urbana Amtrak Station | [View Accessibility Information](https://www.amtrak.com/stations/chm)
 
+### <span style="color:LightGreen">For more information about C-U Accessibility</span>
+[https://experiencecu.org/accessible-cu](https://experiencecu.org/accessible-cu)
+
 ## For more information
 
 [https://experiencecu.org/trip-planning/getting-here-around](https://experiencecu.org/trip-planning/getting-here-around)
