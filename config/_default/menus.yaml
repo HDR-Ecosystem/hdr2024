@@ -32,11 +32,11 @@ main:
     pageRef: /about/committee
     weight: 50
     parent: About
-  - name: Conference Staff
+  - name: Staff
     pageRef: /about/staff
     weight: 60
     parent: About
-  - name: Conference Poster
+  - name: Poster
     pageRef: /about/poster
     weight: 70
     parent: About
