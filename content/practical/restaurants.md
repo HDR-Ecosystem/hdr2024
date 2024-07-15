@@ -11,4 +11,4 @@ NSF Harnessing the Data Revolution (HDR) Big Idea is a national-scale activity f
 
 ## For more information
 
-[https://www.nsf.gov/news/special_reports/big_ideas/harnessing.jsp](https://www.nsf.gov/news/special_reports/big_ideas/harnessing.jsp)
+[https://experiencecu.org/experiences/food-and-drink](https://experiencecu.org/experiences/food-and-drink)

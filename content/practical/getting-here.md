@@ -54,3 +54,5 @@ The drive between Champaign-Urbana and Chicago takes approximately 3 hours; betw
 ## For more information
 
 [https://experiencecu.org/trip-planning/getting-here-around](https://experiencecu.org/trip-planning/getting-here-around)
+
+The University's International Student and Scholar Services department has put together a helpful [transportation guide](https://economics.illinois.edu/system/files/2023-05/ISSS%20transportation_guide.pdf) to using the above-mentioned modes of transportation to get to campus from Chicago O'Hare International Airport.
