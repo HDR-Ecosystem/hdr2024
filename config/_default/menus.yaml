@@ -36,15 +36,19 @@ main:
     pageRef: /about/staff
     weight: 60
     parent: About
-  - name: Past Conferences
+  - name: Conference Poster
+    pageRef: /about/poster
     weight: 70
     parent: About
-  - name: \- 2023 HDR Conference
+  - name: Past Conferences
     weight: 80
+    parent: About
+  - name: \- 2023 HDR Conference
+    weight: 90
     url: https://www.mines.edu/id4/hdr-conference/
     parent: About
   - name: \- 2022 HDR Conference
-    weight: 90
+    weight: 100
     url: https://indico.cern.ch/event/1174814
     parent: About
 
