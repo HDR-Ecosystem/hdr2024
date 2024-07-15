@@ -5,9 +5,11 @@ display_in_summary: true
 weight: 1000
 ---
 
-Once in town, there are a variety of ways to get around sustainably.
+Once in town, there are a variety of ways to get around quickly, safely and sustainably.
 
 ## <span style="color:Orange">Mass Transit</span>
+
+{{< figure src="images/locations/MTD.png" alt="CU Mass Transit" >}}
 
 The greater Champaign-Urbana area boasts one of the best public transportation systems in the country — the [Champaign Urbana Mass Transit District](https://mtd.org) (MTD) system. With over 50 years of service and a 98% customer satisfaction rate, it’s no surprise they have received the American Public Transit Association's Outstanding Achievement Award twice. Their efforts to "Go Green" in our community have resulted in a fleet that is 100% low to zero emissions. MTD’s low-emission hybrid buses operate on 50% less fuel than standard diesel, and their hydrogen fuel cell electric (HFC) buses are zero emission using renewable hydrogen. MTD goes a step further, exemplifying our community’s culture of innovation and technology, by generating hydrogen fuel on site with their own solar array powering the hydrogen fuel production station which makes their HFC fleet truly zero emission, from sun to street.
 
@@ -42,29 +44,31 @@ The Champaign County Area Rural Transit System (C-CARTS) provides safe, reliable
 
 ## <span style="color:Orange">Biking</span>
 
-Bring your bicycle on your trip to Champaign-Urbana to minimize your footprint when getting around. The League of American Bicyclists has deemed Champaign-Urbana a bronze-level bicycle-friendly community. With bike lanes adorning most city streets, it's easy to make your way through town. Whether you're biking the University of Illinois campus, our Park District's bike paths or navigating the country roads, our flat landscape and bike-friendly community makes this an ideal travel option. 
+Bring your bicycle on your trip to Champaign-Urbana to minimize your footprint when getting around. The League of American Bicyclists has deemed Champaign-Urbana a bronze-level bicycle-friendly community. With bike lanes adorning most city streets, it's easy to make your way through town. Whether you're biking the University of Illinois campus, our Park District's bike paths or navigating the country roads, our flat landscape and bike-friendly community makes this an ideal travel option.
 
-Click here to download the Champaign County Bikes map.
+Click [here](https://champaigncountybikes.org/map) to download the Champaign County Bikes map.
 
-Don't want to bring your bike? No problem, check out these rental programs:
+There are a number of bike rental services around town:
 
-VeoRides Bike Share | View Website
-Durst Cycle | 1112 W. University Ave., Urbana | 217-367-3600 | View Website
-Bikelab/Neutral Cycle Workshop | 624 S. Fifth St., Champaign | 217-979-2471 | View Website
+* [VeoRides Bike Share](https://www.veoride.com/uiuc) | 855-836-2256
+* [Durst Cycle](https://www.durstcycle.com) | 1112 W. University Ave., Urbana | 217-367-3600
+* [Bikelab](https://bikelab.shop) | 624 S. Fifth St., Champaign | 217-979-2471
+
+Note that many area hotels, include the I-Hotel at the conference venue, provide complimentary bike rentals upon request to their guests.
 
 ## <span style="color:Orange">Accessibility</span>
 
 The Champaign-Urbana area strives to be an accessible, welcoming and enjoyable community for all. Learn more about accessibility services and policies for visitors and residents.
 
-MTD Public Transportation | View Accessibility Information
-Taxicabs & Limousines | Travelers are encouraged to contact companies in advance regarding available services
-Zipcars | View Accessibility Information or call 1-866-4ZIPCAR to speak with a live representative about vehicle options
-Uber | View Accessibility Information
-Lyft | View Accessibility Information
-C-CARTS Rural Transportation | View Accessibility Information
-Willard Airport | View Accessibility Information
-Champaign-Urbana Amtrak Station | View Accessibility Information
+* MTD Public Transportation | [View Accessibility Information](https://mtd.org/riding/accessibility)
+* Taxicabs & Limousines | Travelers are encouraged to contact companies in advance regarding available services
+* Zipcars | [View Accessibility Information](https://www.zipcar.com/apply/services-for-disabled) or call 1-866-4ZIPCAR to speak with a live representative about vehicle options
+* Uber | [View Accessibility Information](https://www.uber.com/us/en/about/accessibility)
+* Lyft | [View Accessibility Information](https://help.lyft.com/hc/e/all/articles/360045782413-Lyft-s-commitment-to-accessibility)
+* C-CARTS Rural Transportation | [View Accessibility Information](https://c-carts.com/riding)
+* Willard Airport | [View Accessibility Information](https://iflycu.com/info/disability-information)
+* Champaign-Urbana Amtrak Station | [View Accessibility Information](https://www.amtrak.com/stations/chm)
 
 ## For more information
 
-[https://www.nsf.gov/news/special_reports/big_ideas/harnessing.jsp](https://www.nsf.gov/news/special_reports/big_ideas/harnessing.jsp)
+[https://experiencecu.org/trip-planning/getting-here-around](https://experiencecu.org/trip-planning/getting-here-around)
