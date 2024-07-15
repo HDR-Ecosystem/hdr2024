@@ -1,7 +1,20 @@
 ---
 draft: false
-title: "Staff"
-weight: 90
+title: "Conference Staff"
+weight: 70
+showDate: false
+groupByYear: false
+showHero: false
 ---
 
-TBD
+{{< flex-content >}}
+<--->
+<h3>Tonya Ayers (UIUC)<br><small><i>Business Manager</i></small></h3>
+{{< figure src="/images/logos/TonyaAyers.png" >}}
+<--->
+<h3>Brandy Koebbe (UIUC)<br><small><i>Travel & Logistical Support</i></small></h3>
+{{< figure src="/images/logos/BrandyKoebbe.png" >}}
+<--->
+<h3>Menglu Zhang (UW)<br><small><i>Program Operation Analyst (A3D3)</i></small></h3>
+{{< figure src="/images/logos/MengluZhang.png" >}}
+{{< /flex-content >}}
