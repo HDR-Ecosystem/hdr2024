@@ -17,6 +17,8 @@ There is one airport serving Champaign-Urbana: the [University of Illinois' Will
 
 {{< figure src="images/locations/Willard.jpg" alt="Willard Airport" >}}
 
+Many area hotels, including the I-Hotel at the conference venue, have shuttle service that runs to and from Willard Airport (CMI).
+
 ### <span style="color:LightGreen">Other nearby regional and international airports</span>
 
 Other airports have connections to major US cities which require that you make additional arrangments (e.g. bus, train, ride-share) to get from them to campus. These airports include:
@@ -36,6 +38,8 @@ Other airports have connections to major US cities which require that you make a
 [Amtrak](http://www.amtrak.com) provides daily rail passenger service between Champaign-Urbana and Chicago and to points south through Memphis to New Orleans. These trains are a comfortable means of travel with free Wifi. The local Amtrak Station is located within the Illinois Terminal in downtown Champaign (2 miles from the conference venue).
 
 {{< figure src="images/locations/IllinoisTerminal.jpg" alt="Illinois Terminal" >}}
+
+Many area hotels, including the I-Hotel at the conference venue, have shuttle service that runs to and from Illinois Terminal.
 
 ## <span style="color:Orange">By Bus/Shuttle</span>
 
