@@ -47,7 +47,7 @@ footer:
   showScrollToTop: true
 
 homepage:
-  layout: background # valid options: page, profile, hero, card, background, custom
+  layout: backgroud # valid options: page, profile, hero, card, background, custom
   homepageImage: "images/background/Splash.svg" # used in: hero, and card
   showRecent: false
   showRecentItems: 2 # Keep this ~<4, but adjust to make sure relevant articles are highlighted
