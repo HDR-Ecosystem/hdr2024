@@ -65,7 +65,7 @@ main:
     parent: Agenda
   - name: Detailed (Indico)
     weight: 30
-    pageRef: https://indico.cern.ch/event/1364455/timetable
+    url: https://indico.cern.ch/event/1364455/timetable
     parent: Agenda
 
   # Practical tab
@@ -111,7 +111,7 @@ main:
   # Registration tab
   - name: Registration
     weight: 60
-    pageRef: https://indico.cern.ch/event/1364455/registration
+    url: https://indico.cern.ch/event/1364455/registration
 
 footer:
   - name: Email
