@@ -106,10 +106,10 @@ main:
     weight: 50
     pageRef: /practical/getting-around
     parent: Practical Info
-  # - name: Restaurants
-  #   weight: 60
-  #   pageRef: /practical/restaurants
-  #   parent: Practical Info
+  - name: Restaurants
+    weight: 60
+    pageRef: /practical/restaurants
+    parent: Practical Info
 
   # Services tab
   - name: Services
