@@ -51,3 +51,5 @@ related:
       name: fragmentrefs
       type: fragments
       weight: 10
+
+timeout: 60000

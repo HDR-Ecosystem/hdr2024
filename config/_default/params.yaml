@@ -20,8 +20,6 @@ mainSections:
 
 # robots = ""
 
-timeout: 60000
-
 # Image optimisation breaks as we have SVG images
 # The real fix is to disable the optimisation only for SVGs and allow optimisation proceed
 # for other image types
