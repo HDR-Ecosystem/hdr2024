@@ -5,7 +5,7 @@ display_in_summary: true
 weight: 1000
 ---
 
-There are many excellent restaurants in the Champaign-Urbana area. Below are some that are within ~2 miles of the conference venue. 
+There are many excellent restaurants in the Champaign-Urbana area. Below are some that are within ~2 miles of the conference venue (distance shown in parentheses). 
 
 {{< flex-content >}}
 <--->
@@ -21,7 +21,7 @@ There are many excellent restaurants in the Champaign-Urbana area. Below are som
 
 {{< flex-content >}}
 <--->
-<h3><a href="https://baxtersgrille.com">Baxters American Grille</a> (0.6 mi)<br><small><i>100 Trade Ctr Dr, Champaign</i></small></h3>
+<h3><a href="https://baxtersgrille.com">Baxter's American Grille</a> (0.6 mi)<br><small><i>100 Trade Ctr Dr, Champaign</i></small></h3>
 {{< figure src="/images/locations/Baxters.png" >}}
 <--->
 <h3><a href="https://aspentaphouse.com">Aspen Tap House</a> (0.7 mi)<br><small><i>2001 S Neil St, Champaign</i></small></h3>
