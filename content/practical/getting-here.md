@@ -5,9 +5,11 @@ display_in_summary: true
 weight: 1000
 ---
 
-The University of Illinois is located in the twin cities of Champaign and Urbana (C-U) in east-central Illinois. C-U is situated about 140 miles south of Chicago, 125 miles west of Indianapolis, and 180 miles northeast of St. Louis.
+The University of Illinois is located in the twin cities of [Champaign and Urbana](http://www.visitchampaigncounty.org) (C-U) in east-central Illinois. C-U is situated about 140 miles south of Chicago, 125 miles west of Indianapolis, and 180 miles northeast of St. Louis.
 
 {{< figure src="images/locations/Midwest.png" alt="Midwest Map" >}}
+
+The twin cities [Champaign](http://ci.champaign.il.us) and [Urbana](http://urbanaillinois.us) are located in east central Illinois, with a combined population of over 223,000. [Champaign and Urbana](http://www.visitchampaigncounty.org) is a micro-urban community that enjoys the benefits of the big city with the charm of a small town and is home to one of the leading universities in the world.
 
 ## <span style="color:Orange">By Airplane</span>
 
