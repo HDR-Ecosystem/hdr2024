@@ -5,6 +5,8 @@ display_in_summary: true
 weight: 1000
 ---
 
+{{< figure src="images/locations/I-HOTEL.png" alt="venue" >}}
+
 {{< flex-content >}}
 <--->
 <h3><a href="https://www.ihg.com/holidayinn/hotels/us/en/champaign/cmitc/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-US-_-CMITC">Holiday Inn Champaign</a> (0.6 mi)<br><small><i>101 Trade Ctr Dr, Champaign</i></small></h3>

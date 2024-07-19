@@ -23,7 +23,7 @@ The university contains 16 schools and colleges and offers more than 150 undergr
 
 The I-Hotel and Illinois Conference Center facilities includes 125 hotel rooms, a restaurant and bar, and over 70,000 square feet of conference space fully equipped with modern technology.
 
-{{< figure src="images/locations/I-HOTEL.png" alt="venue" >}}
+{{< figure src="images/locations/venue.png" alt="venue" >}}
 
 ### <span style="color:LightGreen">Facility Map</span>
 
