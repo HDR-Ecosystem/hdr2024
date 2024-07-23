@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Schedule At-a-Glance"
+title: 
 weight: 700
 showDate: false
 groupByYear: false
