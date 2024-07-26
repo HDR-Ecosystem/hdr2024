@@ -79,7 +79,7 @@ main:
     parent: Agenda
   - name: Detailed (Indico)
     weight: 30
-    url: https://indico.cern.ch/event/1364455/timetable
+    url: https://indico.cern.ch/event/1364455/timetable/#all.detailed
     parent: Agenda
 
   # Practical tab
