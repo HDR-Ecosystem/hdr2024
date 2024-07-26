@@ -8,5 +8,5 @@ showHero: false
 ---
 
 {{< flex-content >}}
-{{< figure src="/images/promotion/Schedule-at-a-Glance.png" href="/promotion/Schedule-at-a-Glance.pdf" target="_download" >}}
+{{< figure src="/images/promotion/Schedule-at-a-Glance.png" href="hdr2024/promotion/Schedule-at-a-Glance.pdf" target="_download" >}}
 {{< /flex-content >}}
