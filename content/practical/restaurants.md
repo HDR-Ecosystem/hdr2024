@@ -57,7 +57,7 @@ There are many excellent restaurants in the Champaign-Urbana area. Below are som
 
 {{< flex-content >}}
 <--->
-<h3><a href="http://www.sevensaintsbar.com">Seven Saints</a> <small><small><small>(1.7 mi)</small></small></small>br><small><i>32 E Chester St, Champaign</i></small></h3>
+<h3><a href="http://www.sevensaintsbar.com">Seven Saints</a> <small><small><small>(1.7 mi)</small></small></small><br><small><i>32 E Chester St, Champaign</i></small></h3>
 {{< figure src="/images/locations/SevenSaints.jpg" >}}
 <--->
 <h3><a href="http://www.blackdogchampaign.com">Black Dog Ale House</a> <small><small><small>(1.8 mi)</small></small></small><br><small><i>320 N Chestnut St, Champaign</i></small></h3>
