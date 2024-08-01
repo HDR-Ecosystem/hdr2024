@@ -12,7 +12,7 @@ There are many excellent restaurants in the Champaign-Urbana area. Below are som
 <h3><a href="http://www.stayatthei.com/houlihans">Houlihan's</a> <small><small><small>(0.0 mi)</small></small></small><br><small><i>1902 S 1st St, Champaign</i></small></h3>
 {{< figure src="/images/locations/Houlihans.png" >}}
 <--->
-<h3><a href="https://napolisitalianchampaign.com">Napolis Restaurant</a> <small><small><small>(0.6 mi)</small></small></small><br><small><i>1807 S Neil St, Champaign</i></small></h3>
+<h3><a href="https://napolisitalianchampaign.com">Napolis</a> <small><small><small>(0.6 mi)</small></small></small><br><small><i>1807 S Neil St, Champaign</i></small></h3>
 {{< figure src="/images/locations/Napolis.png" >}}
 <--->
 <h3><a href="https://www.theribeyerestaurant.org">The Ribeye</a> <small><small><small>(0.6 mi)</small></small></small><br><small><i>1701 S Neil St, Champaign</i></small></h3>
@@ -21,13 +21,13 @@ There are many excellent restaurants in the Champaign-Urbana area. Below are som
 
 {{< flex-content >}}
 <--->
-<h3><a href="https://baxtersgrille.com">Baxter's American Grille</a> <small><small><small>(0.6 mi)</small></small></small><br><small><i>100 Trade Ctr Dr, Champaign</i></small></h3>
+<h3><a href="https://baxtersgrille.com">Baxter's</a> <small><small><small>(0.6 mi)</small></small></small><br><small><i>100 Trade Ctr Dr, Champaign</i></small></h3>
 {{< figure src="/images/locations/Baxters.png" >}}
 <--->
 <h3><a href="https://aspentaphouse.com">Aspen Tap House</a> <small><small><small>(0.7 mi)</small></small></small><br><small><i>2001 S Neil St, Champaign</i></small></h3>
 {{< figure src="/images/locations/AspenTap.jpg" >}}
 <--->
-<h3><a href="https://www.papadels.com">Papa Del's Pizza Factory</a> <small><small><small>(1.0 mi)</small></small></small><br><small><i>1201 S Neil St, Champaign</i></small></h3>
+<h3><a href="https://www.papadels.com">Papa Del's</a> <small><small><small>(1.0 mi)</small></small></small><br><small><i>1201 S Neil St, Champaign</i></small></h3>
 {{< figure src="/images/locations/PapaDels.png" >}}
 {{< /flex-content >}}
 
@@ -48,7 +48,7 @@ There are many excellent restaurants in the Champaign-Urbana area. Below are som
 <h3><a href="https://www.sushiichiban.net">Sushi Ichiban</a> <small><small><small>(1.6 mi)</small></small></small><br><small><i>619 S Wright St, Champaign</i></small></h3>
 {{< figure src="/images/locations/SushiIchiban.png" >}}
 <--->
-<h3><a href="http://www.jipbapcu.com">Jip Bap</a> <small><small><small>(1.6 mi)</small></small></small><br><small><i>601 S 6th St Suite 101, Champaign</i></small></h3>
+<h3><a href="http://www.jipbapcu.com">Jip Bap</a> <small><small><small>(1.6 mi)</small></small></small><br><small><i>601 S 6th St, Champaign</i></small></h3>
 {{< figure src="/images/locations/JipBap.png" >}}
 <--->
 <h3><a href="http://www.maizemexicangrill.com">Maize at the Station</a> <small><small><small>(1.7 mi)</small></small></small><br><small><i>100 N Chestnut St, Champaign</i></small></h3>
@@ -63,7 +63,7 @@ There are many excellent restaurants in the Champaign-Urbana area. Below are som
 <h3><a href="http://www.blackdogchampaign.com">Black Dog Ale House</a> <small><small><small>(1.8 mi)</small></small></small><br><small><i>320 N Chestnut St, Champaign</i></small></h3>
 {{< figure src="/images/locations/BlackDog.png" >}}
 <--->
-<h3><a href="http://www.farrenspub.com">Farren's Pub & Eatery</a> <small><small><small>(1.8 mi)</small></small></small><br><small><i>117 N Walnut St, Champaign</i></small></h3>
+<h3><a href="http://www.farrenspub.com">Farren's</a> <small><small><small>(1.8 mi)</small></small></small><br><small><i>117 N Walnut St, Champaign</i></small></h3>
 {{< figure src="/images/locations/Farrens.png" >}}
 {{< /flex-content >}}
 
@@ -75,7 +75,7 @@ There are many excellent restaurants in the Champaign-Urbana area. Below are som
 <h3><a href="https://www.hamiltonwalkers.com">Hamilton Walker's</a> <small><small><small>(1.9 mi)</small></small></small><br><small><i>201 N Neil St, Champaign</i></small></h3>
 {{< figure src="/images/locations/HamiltonWalkers.png" >}}
 <--->
-<h3><a href="http://www.watsonschicken.com">Watson's Shack & Rail</a> <small><small><small>(1.9 mi)</small></small></small><br><small><i>211 N Neil St, Champaign</i></small></h3>
+<h3><a href="http://www.watsonschicken.com">Watson's</a> <small><small><small>(1.9 mi)</small></small></small><br><small><i>211 N Neil St, Champaign</i></small></h3>
 {{< figure src="/images/locations/Watsons.png" >}}
 {{< /flex-content >}}
 
@@ -84,10 +84,10 @@ There are many excellent restaurants in the Champaign-Urbana area. Below are som
 <h3><a href="https://www.biggrovetavern.com/food">Big Grove Tavern</a> <small><small><small>(1.9 mi)</small></small></small><br><small><i>1 E Main St, Champaign</i></small></h3>
 {{< figure src="/images/locations/BigGrove.png" >}}
 <--->
-<h3><a href="https://www.thehimalayanchimneyil.com">The Himalayan Chimney</a> <small><small><small>(1.9 mi)</small></small></small><br><small><i>134 W Church St, Champaign</i></small></h3>
+<h3><a href="https://www.thehimalayanchimneyil.com">Himalayan Chimney</a> <small><small><small>(1.9 mi)</small></small></small><br><small><i>134 W Church St, Champaign</i></small></h3>
 {{< figure src="/images/locations/HimalayanChimney.png" >}}
 <--->
-<h3><a href="http://tenkyu.cafe">Tenkyu</a> <small><small><small>(1.9 mi)</small></small></small><br><small><i>301 N Neil St Ste 104, Champaign</i></small></h3>
+<h3><a href="http://tenkyu.cafe">Tenkyu</a> <small><small><small>(1.9 mi)</small></small></small><br><small><i>301 N Neil St, Champaign</i></small></h3>
 {{< figure src="/images/locations/Tenkyu.png" >}}
 {{< /flex-content >}}
 
@@ -96,10 +96,10 @@ There are many excellent restaurants in the Champaign-Urbana area. Below are som
 <h3><a href="http://labahiagrill.com">La Bahía Grill</a> <small><small><small>(2.0 mi)</small></small></small><br><small><i>132 W Church St, Champaign</i></small></h3>
 {{< figure src="/images/locations/LaBahia.jpg" >}}
 <--->
-<h3><a href="http://www.kohinoorchampaign.com">Kohinoor Restaurant</a> <small><small><small>(2.2 mi)</small></small></small><br><small><i>6 E Columbia Ave, Champaign</i></small></h3>
+<h3><a href="http://www.kohinoorchampaign.com">Kohinoor</a> <small><small><small>(2.2 mi)</small></small></small><br><small><i>6 E Columbia Ave, Champaign</i></small></h3>
 {{< figure src="/images/locations/Kohinoor.png" >}}
 <--->
-<h3><a href="http://www.stickyricechampaign.com">Sticky Rice</a> <small><small><small>(2.2 mi)</small></small></small><br><small><i>415 N Neil St, Champaign, IL 61820</i></small></h3>
+<h3><a href="http://www.stickyricechampaign.com">Sticky Rice</a> <small><small><small>(2.2 mi)</small></small></small><br><small><i>415 N Neil St, Champaign</i></small></h3>
 {{< figure src="/images/locations/StickyRice.png" >}}
 {{< /flex-content >}}
 
