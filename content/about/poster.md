@@ -8,5 +8,5 @@ showHero: false
 ---
 
 {{< flex-content >}}
-{{< figure src="/images/promotion/Poster.png" href="/promotion/Poster.pdf" target="_download" >}}
+{{< figure src="/images/promotion/Poster.png" href="https://hdr-ecosystem.github.io/hdr2024/promotion/Poster.pdf" target="_download" >}}
 {{< /flex-content >}}
