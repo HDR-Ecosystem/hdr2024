@@ -126,9 +126,8 @@ main:
   
   # Registration tab
   - name: Registration
-    pageRef: /
     weight: 60
-    url: https://indico.cern.ch/event/1364455/registration
+    url: https://forms.gle/8hbLxAAkkU2FUEsW6
 
 footer:
   - name: Email
