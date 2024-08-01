@@ -5,7 +5,7 @@ display_in_summary: true
 weight: 1000
 ---
 
-The conference venue is the I-HOTEL Conference center located on the southwest part of the campus of the University of Illinois Urbana-Champaign.
+The conference venue is the Illinois Conference Center which is connected to the I-HOTEL located on the southwest part of the campus of the University of Illinois Urbana-Champaign.
 
 ## <span style="color:Orange">Campus of the University of Illinois Urbana-Champaign</span>
 

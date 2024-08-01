@@ -5,11 +5,11 @@ display_in_summary: true
 weight: 1000
 ---
 
-The conference venue (Illinois Conference Center) is connected to a hotel called the "I-Hotel". Therefore, the I-Hotel likely the most conveniant play to stay for the duration of the conference. 
+The conference venue is the Illinois Conference Center which is connected to the I-HOTEL located on the southwest part of the campus of the University of Illinois Urbana-Champaign. Therefore, the I-Hotel likely the most convenient place to stay for the duration of the conference but far from the only convenient option.
 
 {{< figure src="images/locations/I-HOTEL.png" alt="venue" >}}
 
-There is a 85-room block at the I-Hotel which is will accommodate some, but not all, of the conference participants. Fortunately, there are several other hotels that are within a mile or two of the conference venue, which are shown below (distance from conference venue shown in parentheses):
+There is a 85-room block at the I-Hotel which can accommodate some, but not all, of the conference participants. Fortunately, there are numerous nearby hotels that are within a mile or two of the conference venue. These hotels are shown below (distance from conference venue shown in parentheses):
 
 {{< flex-content >}}
 <--->
