@@ -1,11 +1,71 @@
 ---
 draft: false
-title: "Registered Attendees (90)"
+title: "Registered Attendees (91)"
 weight: 90
 ---
 
 | Name                     | Organizational Affiliation                                                    |
 |:-------------------------|:------------------------------------------------------------------------------|
+| Kira Nolan               | Caltech / A3D3                                                                |
+| Benedikt Riedel          | UW-Madison                                                                    |
+| Mirco Huennefeld         | UW-Madison                                                                    |
+| Philip Harris            | MIT                                                                           |
+| Michael Coughlin         | University of Minnesota                                                       |
+| Hanchen Ye               | University of Illinois Urbana-Champaign                                       |
+| Deming Chen              | UIUC                                                                          |
+| Julia Gonski             | SLAC National Accelerator Laboratory                                          |
+| Matthew Graham           | California Institute of Technology                                            |
+| Shih-Chieh Hsu           | University of Washington                                                      |
+| Erik Katsavounidis       | MIT                                                                           |
+| Vladimir Loncar          | MIT                                                                           |
+| Hao Fang                 | University of Washington                                                      |
+| Mia Liu                  | Purdue University                                                             |
+| Mark Neubauer            | University of Illinois at Urbana-Champaign                                    |
+| Malina Desai             | Massachusetts Institute of Technology                                         |
+| Melissa Quinnan          | UCSD                                                                          |
+| Javier Duarte            | UC San Diego                                                                  |
+| Pan Li                   | Georgia Institute of Technology                                               |
+| Rian Flynn               | Purdue                                                                        |
+| Satyanarayan Dev         | Florida A & M University                                                      |
+| Francisco Iacobelli      | Loyola University Chicago                                                     |
+| Yu Liang                 | University of Tennessee at Chattanooga                                        |
+| Amanda Hering            | Baylor University                                                             |
+| Lizhen Shi               | Northwestern University                                                       |
+| Jennifer Drew            | University of Florida                                                         |
+| Fernando Moreu           | University of New Mexico                                                      |
+| Rebecca Napolitano       | Penn State                                                                    |
+| Amanda Phillips de Lucas | Baltimore Neighborhood Indicators Alliance                                    |
+| George Percivall         | IEEE Computer Society, AI Standards Committee                                 |
+| Peter Darch              | University of Illinois at Urbana-Champaign                                    |
+| Mark Daniel Ward         | Purdue University                                                             |
+| Eric Toberer             | Colorado School of Mines                                                      |
+| Emily Freed              | Colorado School of Mines                                                      |
+| Andrew Novick            | Colorado School of Mines                                                      |
+| Elif Ertekin             | University of Illinois at Urbana-Champaign                                    |
+| Tawfiqur Rakib           | University of Illinois Urbana-Champaign                                       |
+| Rees Chang               | UIUC                                                                          |
+| Angela Pak               | University of Illinois Urbana champaign                                       |
+| Vanessa Meschke          | Colorado School of Mines                                                      |
+| Ferdaushi Bipasha        | University of Illinois at Urbana-Champaign                                    |
+| Vandana Janeja           | iHARP, University of Maryland, Baltimore County                               |
+| Kifekachukwu Nwosu       | University of Maryland Baltimore County(UMBC)                                 |
+| Sai Vikas Amaraneni      | University of Maryland, Baltimore County                                      |
+| Mostafa Cham             | UMBC                                                                          |
+| Jianwu Wang              | University of Maryland, Baltimore County                                      |
+| Maloy Kumar Devnath      | UMBC                                                                          |
+| Tolulope Ale             | UMBC                                                                          |
+| Josephine Namayanja      | UMBC                                                                          |
+| Aneesh Subramanian       | University of Colorado Boulder                                                |
+| Sanjay Purushotham       | University of Maryland Baltimore County                                       |
+| Sahara Ali               | University of North Texas                                                     |
+| Omar Faruque             | UMBC                                                                          |
+| Bayu Adhi Tama           | UMBC                                                                          |
+| Chhaya Kulkarni          | University of Maryland, Baltimore County                                      |
+| Sudip Chakraborty        | UMBC                                                                          |
+| Akila Sampath            | UMBC                                                                          |
+| Subhankar Ghosh          | University of Minnesota                                                       |
+| Kevin Coakley            | San Diego Supercomputer Center                                                |
+| Sharad Sharma            | University of North Texas (UNT)                                               |
 | Diane Boghrat            | Imageomics Institute, The Ohio State University                               |
 | Ekaterina Nepovinnykh    | RPI                                                                           |
 | Soumyashree Kar          | RENCI, UNC-Chapel Hill, NC                                                    |
@@ -17,82 +77,23 @@ weight: 90
 | Michelle Ramirez         | The Ohio State University                                                     |
 | Dan Rubenstein           | Princeton University, Department of Ecology & Evolutionary Biology            |
 | Soumyashree Kar          | RENCI, UNC-Chapel Hill                                                        |
-| Kira Nolan               | Caltech / A3D3                                                                |
-| Benedikt Riedel          | UW-Madison                                                                    |
 | Anuj Karpatne            | Virginia Tech                                                                 |
-| Vandana Janeja           | iHARP, University of Maryland, Baltimore County                               |
-| Kifekachukwu Nwosu       | University of Maryland Baltimore County(UMBC)                                 |
-| Sai Vikas Amaraneni      | University of Maryland, Baltimore County                                      |
-| Zahra Khanjani           | UMBC                                                                          |
-| Mostafa Cham             | UMBC                                                                          |
-| Sharad Sharma            | University of North Texas (UNT)                                               |
 | Sam Stevens              | The Ohio State University                                                     |
-| Jianwu Wang              | University of Maryland, Baltimore County                                      |
-| Maloy Kumar Devnath      | UMBC                                                                          |
-| Mirco Huennefeld         | UW-Madison                                                                    |
-| Philip Harris            | MIT                                                                           |
-| Eric Toberer             | Colorado School of Mines                                                      |
-| Tolulope Ale             | UMBC                                                                          |
-| Michael Coughlin         | University of Minnesota                                                       |
-| Chaitan Baru             | National Science Foundation                                                   |
-| Mark Daniel Ward         | Purdue University                                                             |
-| Jemin George             | NSF                                                                           |
-| Raleigh Martin           | NSF                                                                           |
-| Satyanarayan Dev         | Florida A & M University                                                      |
-| Hanchen Ye               | University of Illinois Urbana-Champaign                                       |
-| Deming Chen              | UIUC                                                                          |
-| Julia Gonski             | SLAC National Accelerator Laboratory                                          |
-| Naoki Saito              | University of California, Davis                                               |
-| Emily Freed              | Colorado School of Mines                                                      |
-| Josephine Namayanja      | UMBC                                                                          |
-| Francisco Iacobelli      | Loyola University Chicago                                                     |
-| Aneesh Subramanian       | University of Colorado Boulder                                                |
-| Matthew Graham           | California Institute of Technology                                            |
-| Shih-Chieh Hsu           | University of Washington                                                      |
-| Yunfei Hou               | California State University, San Bernardino                                   |
-| Yu Liang                 | University of Tennessee at Chattanooga                                        |
-| Amanda Hering            | Baylor University                                                             |
 | Matthew Thompson         | Ohio State University                                                         |
-| Daryl Hess               | National Science Foundation                                                   |
 | Elizabeth Campolongo     | Imageomics Institute and ABC Global Climate Center, The Ohio State University |
 | Kazi Sajeed Mehrab       | Virginia Tech                                                                 |
-| Erik Katsavounidis       | MIT                                                                           |
-| Lizhen Shi               | Northwestern University                                                       |
-| Vladimir Loncar          | MIT                                                                           |
-| Andrew Novick            | Colorado School of Mines                                                      |
-| Sanjay Purushotham       | University of Maryland Baltimore County                                       |
-| Aron Culotta             | Tulane University                                                             |
-| Jennifer Drew            | University of Florida                                                         |
-| Fernando Moreu           | University of New Mexico                                                      |
-| Hao Fang                 | University of Washington                                                      |
-| Sahara Ali               | University of North Texas                                                     |
-| Jirui Fu                 | University of Central Florida                                                 |
-| Omar Faruque             | UMBC                                                                          |
 | David Carlyn             | Ohio State University                                                         |
-| Mia Liu                  | Purdue University                                                             |
+| Chaitan Baru             | National Science Foundation                                                   |
+| Jemin George             | NSF                                                                           |
+| Raleigh Martin           | NSF                                                                           |
+| Yunfei Hou               | California State University, San Bernardino                                   |
+| Daryl Hess               | National Science Foundation                                                   |
+| Aron Culotta             | Tulane University                                                             |
+| Jirui Fu                 | University of Central Florida                                                 |
 | Dmitry Kondratyev        | Purdue University                                                             |
-| Bayu Adhi Tama           | UMBC                                                                          |
-| Chhaya Kulkarni          | University of Maryland, Baltimore County                                      |
-| Sudip Chakraborty        | UMBC                                                                          |
 | Cheryl Eavey             | National Science Foundation                                                   |
-| Akila Sampath            | UMBC                                                                          |
-| Mark Neubauer            | University of Illinois at Urbana-Champaign                                    |
-| George Percivall         | IEEE Computer Society, AI Standards Committee                                 |
-| Elif Ertekin             | University of Illinois at Urbana-Champaign                                    |
-| Tawfiqur Rakib           | University of Illinois Urbana-Champaign                                       |
-| Rees Chang               | UIUC                                                                          |
-| Rebecca Napolitano       | Penn State                                                                    |
 | Sara Ayman Metwalli      | Argonne National Lab                                                          |
-| Angela Pak               | University of Illinois Urbana champaign                                       |
-| Vanessa Meschke          | Colorado School of Mines                                                      |
-| Malina Desai             | Massachusetts Institute of Technology                                         |
-| Melissa Quinnan          | UCSD                                                                          |
-| Javier Duarte            | UC San Diego                                                                  |
-| Peter Darch              | University of Illinois at Urbana-Champaign                                    |
-| Amanda Phillips de Lucas | Baltimore Neighborhood Indicators Alliance                                    |
-| Ferdaushi Bipasha        | University of Illinois at Urbana-Champaign                                    |
-| Pan Li                   | Georgia Institute of Technology                                               |
 | Franck Cappello          | Argonne National Laboratory                                                   |
-| Rian Flynn               | Purdue                                                                        |
-| Subhankar Ghosh          | University of Minnesota                                                       |
-| Kevin Coakley            | San Diego Supercomputer Center                                                |
+| Zahra Khanjani           | UMBC                                                                          |
+| Naoki Saito              | University of California, Davis                                               |
+| Jialiang Zhang           | UIUC                                                                          |
