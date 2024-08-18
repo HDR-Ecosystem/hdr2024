@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Registered Attendees (98)"
+title: "Registered Attendees (99)"
 weight: 90
 ---
 
@@ -102,5 +102,6 @@ weight: 90
 | Dmitry Kondratyev        | Purdue University                                                             |
 | Aron Culotta             | Tulane University                                                             |
 | Jirui Fu                 | University of Central Florida                                                 |
+| Savannah Thais           | Columbia University                                                           |
 | Zahra Khanjani           | UMBC                                                                          |
 | Naoki Saito              | University of California, Davis                                               |
