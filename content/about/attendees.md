@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Registered Attendees (102)"
+title: "Registered Attendees (106)"
 weight: 90
 ---
 
@@ -108,3 +108,7 @@ weight: 90
 | Maksim Kholiavchenko     | Rensselaer Polytechnic Institute                                              |
 | Hilmar Lapp              | Duke University                                                               |
 | Furqan Baig              | University of Illinois at Urbana-Champaign                                    |
+| Wasila Dahdul            | UC Irvine                                                                     |
+| Yunfan Kang              | University of Illinois Urbana-Champaign                                       |
+| Ashley Atkins            | San Diego Supercomputer Center                                                |
+| Micah Brachman           | Open Geospatial Consortium                                                    |
