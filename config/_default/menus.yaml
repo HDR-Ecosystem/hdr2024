@@ -94,24 +94,28 @@ main:
     weight: 10
     pageRef: /practical/venue
     parent: Practical Info
-  - name: Getting Here
+  - name: Room Maps
     weight: 20
+    pageRef: /practical/room-maps
+    parent: Practical Info
+  - name: Getting Here
+    weight: 30
     pageRef: /practical/getting-here
     parent: Practical Info
   - name: Parking
-    weight: 30
+    weight: 40
     pageRef: /practical/parking
     parent: Practical Info
   - name: Accommodation
-    weight: 40
+    weight: 50
     pageRef: /practical/accommodation
     parent: Practical Info
   - name: Getting Around
-    weight: 50
+    weight: 60
     pageRef: /practical/getting-around
     parent: Practical Info
   - name: Restaurants
-    weight: 60
+    weight: 70
     pageRef: /practical/restaurants
     parent: Practical Info
 
