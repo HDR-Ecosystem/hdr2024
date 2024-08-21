@@ -4,23 +4,26 @@ title: "Keynote Speaker"
 weight: 70
 ---
 
-<h1>
-<i><a href="https://cse.umn.edu/cs/vipin-kumar">Dr. Vipin Kumar</a>
-</h1>
+# <span style="color:Orange">Dr. Vipin Kumar</span>
+
 <h4>
 <i>Regents Professor, William Norris Land Grant Chair in Large-Scale Computing, Data Science Initiative Director<br>University of Minnesota</i><br>
 </h4>
 
 {{< figure src="/images/speakers/VipinKumar.jpg" nozoom="true" >}}
 
-<h3><i>About the speaker</i></h3>
-<p>
-Kumar's current research interests span data mining, high-performance computing, and their applications in climate/ecosystems and health care. His research has resulted in the development of the concept of isoefficiency metric for evaluating the scalability of parallel algorithms, as well as highly efficient parallel algorithms and software for sparse matrix factorization (PSPASES) and graph partitioning (METIS, ParMetis, hMetis). Kumar's current major research focus is on bringing the power of big data and machine learning to understand the impact of human induced changes on the Earth and its environment.
-</p>
-<p>
-Kumar joined the Department of Computer Science & Engineering in 1989 as an associate professor and has since been promoted to a professor. He has been the William Norris Land Grant Chair of the department since 2005 and was named a Regents Professor in 2015. Kumar’s research has been widely cited, with over 127,000 total citations. He was named an IEEE Fellow in 2000, received the IEEE Technical Achievement Award in 2005, and received the Association for Computing Machinery Special Interest Group on Knowledge Discovery and Data Mining Innovation Award in 2012.
-</p>
+## <span style="color:LightGreen">About the presentation</span>
 
-## For more information
+<a href="https://indico.cern.ch/event/1364455/contributions/6068833">Knowledge-Guided Machine Learning: A New Framework for Accelerating Scientific Discovery and Addressing Global Environmental Challenges</a>
+
+## <span style="color:LightGreen">About the speaker</span>
+
+<p><i>
+Vipin Kumar is a Regents Professor and holds William Norris Chair in the department of Computer Sci-ence and Engineering  at the University of Minnesota.  His research spans data mining, high-performance computing, and their applications in Climate/Ecosystems and health care.  His research has resulted in the development of the concept of isoefficiency metric for evaluating the scalability of parallel algorithms, as well as highly efficient parallel algorithms and software for sparse matrix factori-zation (PSPASES) and graph partitioning (METIS, ParMetis, hMetis). He has authored over 400 re-search articles, and co-edited or coauthored 11 books including two widely used text books "Introduction to Parallel Computing",  "Introduction to Data Mining", and a recent edited collection, “Knowledge Guided Machine Learning”. Kumar's current major research focus is on knowledge-guided machine learning and its applications  to understanding the impact of human induced changes on the Earth and its environment.. Kumar’s research on this topic has been funded by NSF’s AI Instititues,  BIGDA-TA, INFEWS, STC, GCR, and HDR programs, as well as ARPA-E, DARPA, and USGS. He also served as the Lead PI of a 5-year, $10 Million project, "Understanding Climate Change - A Data Driven Approach", funded by the NSF's Expeditions in Computing program (2010-2015).
+
+Kumar is a Fellow of the AAAI, ACM, IEEE, AAAS, and SIAM.  Kumar's foundational research in data mining and high performance computing has been honored by the ACM SIGKDD 2012 Innovation Award, which is the highest award for technical excellence in the field of Knowledge Discovery and Data Mining (KDD), the 2016 IEEE Computer Society Sidney Fernbach Award, one of IEEE Computer Society's highest awards in high performance computing, and Test-of-time award from 2021 Super-computing conference (SC21). 
+</p></i>
+
+## <span style="color:LightGreen">For more information</span>
 
 [https://cse.umn.edu/cs/vipin-kumar](https://cse.umn.edu/cs/vipin-kumar)
