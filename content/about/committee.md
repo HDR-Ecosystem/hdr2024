@@ -28,7 +28,7 @@ showHero: false
 {{< figure src="/images/organizers-staff/PhilHarris.png" >}}
 <--->
 <h3><span style="color:orange">Shih-Cheih Hsu</span> <small><small><small>(UW)</small></small></small><br><small><i>A3D3 Director</i></small><br><br></h3>
-{{< figure src="/images/organizers-staff/Shih-CheihHsu.png" >}}
+{{< figure src="/images/organizers-staff/ShihChiehHsu.png" >}}
 {{< /flex-content >}}
 
 {{< flex-content >}}

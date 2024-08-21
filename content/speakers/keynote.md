@@ -14,7 +14,7 @@ weight: 70
 
 ## <span style="color:LightGreen">About the presentation</span>
 
-<a href="https://indico.cern.ch/event/1364455/contributions/6068833">Knowledge-Guided Machine Learning: A New Framework for Accelerating Scientific Discovery and Addressing Global Environmental Challenges</a>
+[Knowledge-Guided Machine Learning: A New Framework for Accelerating Scientific Discovery and Addressing Global Environmental Challenges](https://indico.cern.ch/event/1364455/contributions/6068833">)
 
 ## <span style="color:LightGreen">About the speaker</span>
 
