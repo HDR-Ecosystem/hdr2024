@@ -9,9 +9,9 @@ On behalf of the Conference Committee of the 2024 Harvesting the Data Revolution
 
 ## <span style="color:Orange">Contact Us</span>
 
-If you wish to sponsor our conference or have questions about sponsorship, please contact Dr. Julia Gonski () for more information. 
+If you wish to sponsor our conference or have questions about sponsorship, please contact [Dr. Julia Gonski](https://profiles.stanford.edu/julia-gonski) (jgonski@slac.stanford.edu) for more information.
 
-There are three tiers of sponsorship and the benefits of each, shown below:
+There are three tiers of sponsorship. The benefits of each are shown below:
 
 ### <span style="color:LightGreen">Platinum Tier</span> (minimum $5000)
 
