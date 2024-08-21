@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Registered Attendees (117)"
+title: "Registered Attendees (118)"
 weight: 90
 ---
 
@@ -123,3 +123,4 @@ weight: 90
 | Leanna House             | Virginia Tech                                                                 |
 | John MacMullen           | University of Illinois                                                        |
 | Wei Hu                   | University of Illinois Urbana-Champaign                                       |
+| Rebecca Vandewalle       | University of Illinois Urbana-Champaign                                       |
