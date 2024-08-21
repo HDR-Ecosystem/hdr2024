@@ -5,9 +5,9 @@ display_in_summary: true
 weight: 1000
 ---
 
-On behalf of the Conference Committee of the 2024 Harvesting the Data Revolution Conference, we invite you to participate in the sponsor program. 
+On behalf of the Conference Committee of the 2024 Harvesting the Data Revolution Conference, we invite you to participate in the sponsor program.
 
-## <span style="color:Orange">Contact</span>
+## <span style="color:Orange">Contact Us</span>
 
 If you wish to sponsor our conference or have questions about sponsorship, please contact Dr. Julia Gonski () for more information. 
 
