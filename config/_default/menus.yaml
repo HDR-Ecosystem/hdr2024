@@ -132,6 +132,19 @@ main:
     pageRef: /services/captioning
     parent: Services
   
+  # Sponsorship tab
+  - name: Sponsorship
+    pageRef: /
+    weight: 50
+  - name: Our Sponsors
+    weight: 10
+    pageRef: /sponsorship/sponsors
+    parent: Sponsorship
+  - name: Become a Sponsor
+    weight: 20
+    pageRef: /sponsorship/become-a-sponsor
+    parent: Sponsorship
+
   # Registration tab
   - name: Registration
     weight: 60
