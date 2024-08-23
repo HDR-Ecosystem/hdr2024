@@ -27,8 +27,8 @@ weight: 1000
 ---
 
 ## Fireside Chat with the National Science Foundation
-- Panel moderator: [Tanya Berger-Wolf](https://cse.osu.edu/people/berger-wolf.1) (The Ohio State University)
-- Panel link: [https://indico.cern.ch/event/1364455/contributions/6092994](https://indico.cern.ch/event/1364455/contributions/6092994)
+- Moderator: [Tanya Berger-Wolf](https://cse.osu.edu/people/berger-wolf.1) (The Ohio State University)
+- Activity page: [https://indico.cern.ch/event/1364455/contributions/6092994](https://indico.cern.ch/event/1364455/contributions/6092994)
 
 ### Dr. Katerina Antypas (Lawrence Berkeley National Laboratory)
 [Director of the Office of Advanced Cyberinfrastructure, National Science Foundation](https://cs.lbl.gov/news-media/news/2023/katie-antypas-to-oversee-advanced-cyberinfrastructure-at-nsf)
@@ -41,7 +41,7 @@ weight: 1000
 
 ## The Role of AI, Computing and Data Infrastructure in Community Engagement
 - Moderator: [Anand Padmanabhan](https://ggis.illinois.edu/directory/profile/apadmana) (University of Illinoia, Urbana-Champaign)
-- [https://indico.cern.ch/event/1364455/sessions/559581/#20240911](https://indico.cern.ch/event/1364455/sessions/559581/#20240911)
+- Activity page: [https://indico.cern.ch/event/1364455/sessions/559581/#20240911](https://indico.cern.ch/event/1364455/sessions/559581/#20240911)
 
 ### George Percivall (GeoRoundtable: Spatial Web Foundation; IEEE Standards)
 [Consultancy](https://www.linkedin.com/in/gpercivall)
@@ -67,7 +67,7 @@ weight: 1000
 ## Workforce Development and Education from Data Science Corps
 - Panel moderators: [Eric Sokol](https://www.colorado.edu/instaar/eric-sokol)
 (University of Colorado Boulder)
-- Panel link: [https://indico.cern.ch/event/1364455/sessions/559583/#20240911](https://indico.cern.ch/event/1364455/sessions/559583/#20240911)
+- Activity page: [https://indico.cern.ch/event/1364455/sessions/559583/#20240911](https://indico.cern.ch/event/1364455/sessions/559583/#20240911)
 
 ### Francisco Iacobelli (Loyola University Chicago)
 [Associate Professor, Department of Computer Science](https://www.neiu.edu/faculty/francisco-iacobelli-phd)
