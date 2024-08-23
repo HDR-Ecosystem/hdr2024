@@ -72,6 +72,10 @@ main:
     weight: 30
     pageRef: /speakers/plenary
     parent: Speakers
+  - name: Panels
+    weight: 40
+    pageRef: /speakers/panels
+    parent: Speakers
 
   # Agenda tab
   - name: Agenda
