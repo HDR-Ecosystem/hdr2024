@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Registered Attendees (119)"
+title: "Registered Attendees (123)"
 weight: 90
 ---
 
@@ -125,3 +125,7 @@ weight: 90
 | Wei Hu                   | University of Illinois Urbana-Champaign                                       |
 | Rebecca Vandewalle       | University of Illinois Urbana-Champaign                                       |
 | Daniel Kiv               | University of Illinois at Urbana-Champaign                                    |
+| Erick Li                 | University of Illinois Urbana-Champaign                                       |
+| Ethan Colbert            | Purdue University                                                             |
+| Eric Sokol               | NEON, Battelle                                                                |
+| Elham E Khoda            | University of California, San Diego                                           |
