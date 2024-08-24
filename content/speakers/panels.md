@@ -18,7 +18,7 @@ weight: 1000
   - [Workforce Development and Education from Data Science Corps](#workforce-development-and-education-from-data-science-corps)
     - [Francisco Iacobelli (Loyola University Chicago)](#francisco-iacobelli-loyola-university-chicago)
     - [Fernando Moreu (University of New Mexico)](#fernando-moreu-university-of-new-mexico)
-    - [Yu Liang (University of Tennessee, Chattanooga) (TBC)](#yu-liang-university-of-tennessee-chattanooga-tbc)
+    - [Yu Liang (University of Tennessee, Chattanooga)](#yu-liang-university-of-tennessee-chattanooga)
     - [Amanda Phillips de Lucas (Jacob France Institute)](#amanda-phillips-de-lucas-jacob-france-institute)
     - [Mark Daniel Ward (Purdue University)](#mark-daniel-ward-purdue-university)
 
@@ -77,7 +77,7 @@ weight: 1000
 [Associate Professor, Department of Civil, Construction and Environmental Engineering](https://civil.unm.edu/faculty-staff/faculty-profiles/fernando-moreu.html)
 {{< figure src="/images/speakers/FernandoMoreu.jpg" nozoom="true" >}}
 
-### Yu Liang (University of Tennessee, Chattanooga) (TBC)
+### Yu Liang (University of Tennessee, Chattanooga)
 [Associate Professor, Department of Computer Science and Engineering](https://www.utc.edu/research/center-for-urban-informatics-and-progress/our-team/yu-liang)
 {{< figure src="/images/speakers/YuLiang.jpg" nozoom="true" >}}
 
