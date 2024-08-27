@@ -13,7 +13,7 @@ weight: 1000
     - [George Percivall (GeoRoundtable: Spatial Web Foundation; IEEE Standards)](#george-percivall-georoundtable-spatial-web-foundation-ieee-standards)
     - [John Fonner (Texas Advanced Computing Center)](#john-fonner-texas-advanced-computing-center)
     - [Ashley Atkins (San Diego Supercomputer Center)](#ashley-atkins-san-diego-supercomputer-center)
-    - [Brett Bode (National Center for Supercomputing Applications) (TBC)](#brett-bode-national-center-for-supercomputing-applications-tbc)
+    - [Brett Bode (National Center for Supercomputing Applications)](#brett-bode-national-center-for-supercomputing-applications)
     - [Nhan Tran (Fermi National Accelertor Laboratory)](#nhan-tran-fermi-national-accelertor-laboratory)
   - [Workforce Development and Education from Data Science Corps](#workforce-development-and-education-from-data-science-corps)
     - [Francisco Iacobelli (Loyola University Chicago)](#francisco-iacobelli-loyola-university-chicago)
@@ -61,7 +61,7 @@ As part of her work with the Human Genome Project Dr. Spengler has been involved
 [Chief of Staff](https://www.sdsc.edu/News%20Items/PR20240507_Chief_of_Staff_Ashley_Atkins.html)
 {{< figure src="/images/speakers/AshleyAtkins.jpg" nozoom="true" >}}
 
-### Brett Bode (National Center for Supercomputing Applications) (TBC)
+### Brett Bode (National Center for Supercomputing Applications)
 [Assistant Director]((https://users.ncsa.illinois.edu/bbode))
 {{< figure src="/images/speakers/BrettBode.jpg" nozoom="true" >}}
 
