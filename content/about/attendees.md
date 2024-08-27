@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Registered Attendees (123)"
+title: "Registered Attendees (126)"
 weight: 90
 ---
 
@@ -69,7 +69,6 @@ weight: 90
 | Omar Faruque             | UMBC                                                                          |
 | David Carlyn             | Ohio State University                                                         |
 | Mia Liu                  | Purdue University                                                             |
-| Dmitry Kondratyev        | Purdue University                                                             |
 | Bayu Adhi Tama           | UMBC                                                                          |
 | Chhaya Kulkarni          | University of Maryland, Baltimore County                                      |
 | Sudip Chakraborty        | UMBC                                                                          |
@@ -129,3 +128,7 @@ weight: 90
 | Ethan Colbert            | Purdue University                                                             |
 | Eric Sokol               | NEON, Battelle                                                                |
 | Elham E Khoda            | University of California, San Diego                                           |
+| Dmitry Kondratyev        | Purdue University                                                             |
+| Katie Antypas            | NSF                                                                           |
+| David Jiang              | University of Illinois, Urbana-Champaign                                      |
+| Reed Beaman              | National Science Foundation                                                   |
