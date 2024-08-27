@@ -7,7 +7,7 @@ weight: 1000
 
 - [Tuesday, September 10](#tuesday-september-10)
   - [Fireside Chat with the National Science Foundation](#fireside-chat-with-the-national-science-foundation)
-    - [Dr. Katerina Antypas (Lawrence Berkeley National Laboratory)](#dr-katerina-antypas-lawrence-berkeley-national-laboratory)
+    - [Dr. Sylvia Spengler (Lawrence Berkeley National Laboratory)](#dr-sylvia-spengler-lawrence-berkeley-national-laboratory)
 - [Wednesday, September 11](#wednesday-september-11)
   - [The Role of AI, Computing and Data Infrastructure in Community Engagement](#the-role-of-ai-computing-and-data-infrastructure-in-community-engagement)
     - [George Percivall (GeoRoundtable: Spatial Web Foundation; IEEE Standards)](#george-percivall-georoundtable-spatial-web-foundation-ieee-standards)
@@ -30,10 +30,16 @@ weight: 1000
 - Moderator: [Tanya Berger-Wolf](https://cse.osu.edu/people/berger-wolf.1) (The Ohio State University)
 - Activity page: [https://indico.cern.ch/event/1364455/contributions/6092994](https://indico.cern.ch/event/1364455/contributions/6092994)
 
-### Dr. Katerina Antypas (Lawrence Berkeley National Laboratory)
-[Director of the Office of Advanced Cyberinfrastructure, National Science Foundation](https://cs.lbl.gov/news-media/news/2023/katie-antypas-to-oversee-advanced-cyberinfrastructure-at-nsf)
+### Dr. Sylvia Spengler (Lawrence Berkeley National Laboratory)
+[Director, Division of Information and Intelligent System (IIS), National Science Foundation](https://new.nsf.gov/staff/sspengle)
 
-{{< figure src="/images/speakers/KatieAntypas.jpg" nozoom="true" >}}
+{{< figure src="/images/speakers/SylviaSpengler.png" nozoom="true" >}}
+
+Sylvia Spengler is program director in Division of Information and Intelligent System (IIS) within the CISE Directorate at the National Science Foundation. She also served as program officer for the Biological Databases and Informatics in BIO/DBI. Prior to joining NSF, she was a Director of Department of Energy (DOE) Human Genome Program Field Operations. She served as Co-Director of the Program in Mathematics and Molecular Biology at the University of California, Berkeley, Lawrence Berkeley National Laboratory.
+
+Her many honors include Senior Fellow of the American Cancer Society, and National Institutes of Health (NIH) Postdoctoral Fellow. As a member of DOE ELSI panels, she has been involved in evaluating the ethical, legal and social implications of human genome research. Dr. Spengler's many publications include co-authorship of the DOE's Primer of Molecular Biology.
+
+As part of her work with the Human Genome Project Dr. Spengler has been involved in many types of public outreach including lectures given to college students, judges, and appearances on public television.
 
 ---
 # Wednesday, September 11
