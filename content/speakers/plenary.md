@@ -8,21 +8,21 @@ weight: 1000
 - [Tuesday, September 10](#tuesday-september-10)
   - [Dr. Mark Neubauer (University of Illinois)](#dr-mark-neubauer-university-of-illinois)
   - [Dr. Rashid Bashir (University of Illinois)](#dr-rashid-bashir-university-of-illinois)
-  - [Dr. Katerina Antypas (Lawrence Berkeley National Laboratory)](#dr-katerina-antypas-lawrence-berkeley-national-laboratory)
+  - [TBD](#tbd)
   - [Dr. Shih-Chieh Hsu (University of Washington)](#dr-shih-chieh-hsu-university-of-washington)
   - [Dr. Eric Toberer (Colorado School of Mines)](#dr-eric-toberer-colorado-school-of-mines)
   - [Dr. Tanya Berger-Wolf (The Ohio State University)](#dr-tanya-berger-wolf-the-ohio-state-university)
   - [Dr. Vandana Janeja (University of Maryland, Baltimore County)](#dr-vandana-janeja-university-of-maryland-baltimore-county)
   - [Dr. Shaowen Wang (University of Illinois)](#dr-shaowen-wang-university-of-illinois)
 - [Wednesday, September 11](#wednesday-september-11)
-  - [Dr. Katerina Antypas (Lawrence Berkeley National Laboratory)](#dr-katerina-antypas-lawrence-berkeley-national-laboratory-1)
+  - [Dr. Katerina Antypas (Lawrence Berkeley National Laboratory)](#dr-katerina-antypas-lawrence-berkeley-national-laboratory)
   - [Dr. Franck Cappello (Argonne National Laboratory)](#dr-franck-cappello-argonne-national-laboratory)
   - [Dr. Deming Chen (University of Illinois)](#dr-deming-chen-university-of-illinois)
   - [Dr. Philip Harris (Massachusetts Institute of Technology)](#dr-philip-harris-massachusetts-institute-of-technology)
   - [Dr. Yuan-Tang Chou (University of Washington)](#dr-yuan-tang-chou-university-of-washington)
   - [Dr. Aneesh Subramanian (University of Colorado Boulder)](#dr-aneesh-subramanian-university-of-colorado-boulder)
   - [Dr. Elizabeth Campolongo (The Ohio State University)](#dr-elizabeth-campolongo-the-ohio-state-university)
-  - [Sara Ayman Fathi Mohamed Metwalli (Argonne National Laboratory)](#sara-ayman-fathi-mohamed-metwalli-argonne-national-laboratory)
+  - [Dr. Sara Ayman Metwalli (Argonne National Laboratory)](#dr-sara-ayman-metwalli-argonne-national-laboratory)
   - [Dr. Alex Pak (Colorado School of Mines)](#dr-alex-pak-colorado-school-of-mines)
 
 # Tuesday, September 10
@@ -41,11 +41,10 @@ weight: 1000
 - Presentation: [Welcome from the Dean of the College of Engineering](https://indico.cern.ch/event/1364455/contributions/6068825)
 - [Website](https://ece.illinois.edu/about/directory/faculty/rbashir)
 
-## Dr. Katerina Antypas (Lawrence Berkeley National Laboratory)
-<h4><i>Director of the Office of Advanced Cyberinfrastructure, National Science Foundation</i><br></h4>
-{{< figure src="/images/speakers/KatieAntypas.jpg" nozoom="true" >}}
+## TBD
+<h4><i>TBD, National Science Foundation</i><br></h4>
 
-- Presentation: [NSF Welcome and OAC Overview](https://indico.cern.ch/event/1364455/contributions/6068826)
+- Presentation: [NSF Welcome and HDR Overview](https://indico.cern.ch/event/1364455/contributions/6068826)
 - [Website](https://cs.lbl.gov/news-media/news/2023/katie-antypas-to-oversee-advanced-cyberinfrastructure-at-nsf)
 
 ## Dr. Shih-Chieh Hsu (University of Washington)
@@ -89,7 +88,7 @@ weight: 1000
 <h4><i>Director of the Office of Advanced Cyberinfrastructure, National Science Foundation</i><br></h4>
 {{< figure src="/images/speakers/KatieAntypas.jpg" nozoom="true" >}}
 
-- Presentation: [The National Artificial Intelligence Research Resource (NAIRR) Pilot](https://indico.cern.ch/event/1364455/contributions/6088332)
+- Presentation: [NSF OAC and The National Artificial Intelligence Research Resource (NAIRR) Pilot](https://indico.cern.ch/event/1364455/contributions/6088332)
 - [Website](https://cs.lbl.gov/news-media/news/2023/katie-antypas-to-oversee-advanced-cyberinfrastructure-at-nsf)
 
 ## Dr. Franck Cappello (Argonne National Laboratory)
@@ -134,8 +133,8 @@ weight: 1000
 - Presentation: [Detecting New Species](https://indico.cern.ch/event/1364455/contributions/6088313)
 - [Website](https://u.osu.edu/campolongo-4)
 
-## Sara Ayman Fathi Mohamed Metwalli (Argonne National Laboratory)
-<h4><i>Ph.D. candidate in Quantum Computing representing Keio University</i><br></h4>
+## Dr. Sara Ayman Metwalli (Argonne National Laboratory)
+<h4><i>Quantum Computing Researcher, Educator, and Science Communicator</i><br></h4>
 {{< figure src="/images/speakers/SaraMetwalli.jpg" nozoom="true" >}}
 
 - Presentation: [Science Communication](https://indico.cern.ch/event/1364455/contributions/6089811)
