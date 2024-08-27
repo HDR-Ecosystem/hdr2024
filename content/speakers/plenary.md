@@ -140,6 +140,10 @@ weight: 1000
 - Presentation: [Science Communication](https://indico.cern.ch/event/1364455/contributions/6089811)
 - [Website](https://www.anl.gov/profile/sara-ayman-fathi-mohamed-metwalli)
 
+Sara Ayman Metwalli has a Ph.D. in Quantum Computing at Keio University, Japan, where she focused on developing and optimizing quantum algorithms and debugging tools for Noisy Intermediate-Scale Quantum (NISQ) devices. Sara has made significant contributions to quantum information science, particularly in the areas of quantum error correction and fault-tolerance. Her work has been published in leading journals and presented at international conferences, highlighting her role as an emerging leader in the quantum computing field.
+
+In addition to her research, Sara has a strong commitment to STEM education and outreach. She has extensive experience as an educator, teaching programming and quantum computing to a wide range of students, from K-12 to university graduates. Sara is passionate about increasing diversity in STEM and has actively worked to create inclusive educational environments that empower underrepresented groups to pursue careers in science and technology.
+
 ## Dr. Alex Pak (Colorado School of Mines)
 <h4><i>Assistant Professor, Chemical and Biological Engineering</i><br></h4>
 {{< figure src="/images/speakers/AlexPak.jpg" nozoom="true" >}}
