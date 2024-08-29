@@ -66,7 +66,7 @@ As part of her work with the Human Genome Project Dr. Spengler has been involved
 {{< figure src="/images/speakers/BrettBode.jpg" nozoom="true" >}}
 
 ### Nhan Tran (Fermi National Accelertor Laboratory)
-[Wilson Fellow](https://cms.fnal.gov/nhan-tran)
+[Director of Real-Time Processing Systems Division](https://cms.fnal.gov/nhan-tran)
 {{< figure src="/images/speakers/NhanTran.png" nozoom="true" >}}
 
 ---
