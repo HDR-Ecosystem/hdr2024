@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Registered Attendees (126)"
+title: "Registered Attendees (130)"
 weight: 90
 ---
 
@@ -132,3 +132,7 @@ weight: 90
 | Katie Antypas            | NSF                                                                           |
 | David Jiang              | University of Illinois, Urbana-Champaign                                      |
 | Reed Beaman              | National Science Foundation                                                   |
+| Dewen Zhong              | University of Illinois Urbana Champaign                                       |
+| Abdelrahman Elabd        | University of Washington, Physics                                             |
+| Zhijian Liu              | UC San Diego                                                                  |
+| Nhan Tran                | Fermi National Accelerator Laboratory                                         |
