@@ -72,7 +72,7 @@ As part of her work with the Human Genome Project Dr. Spengler has been involved
 ---
 ## Workforce Development and Education from Data Science Corps
 - Panel moderators: [Eric Sokol](https://www.colorado.edu/instaar/eric-sokol)
-(University of Colorado Boulder)
+(National Ecological Observatory Network (NEON), Battelle)
 - Activity page: [https://indico.cern.ch/event/1364455/sessions/559583/#20240911](https://indico.cern.ch/event/1364455/sessions/559583/#20240911)
 
 ### Francisco Iacobelli (Loyola University Chicago)

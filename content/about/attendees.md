@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Registered Attendees (130)"
+title: "Registered Attendees (131)"
 weight: 90
 ---
 
@@ -136,3 +136,4 @@ weight: 90
 | Abdelrahman Elabd        | University of Washington, Physics                                             |
 | Zhijian Liu              | UC San Diego                                                                  |
 | Nhan Tran                | Fermi National Accelerator Laboratory                                         |
+| Zufen Wang               | Tennessee State University                                                    |
