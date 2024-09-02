@@ -7,9 +7,9 @@ weight: 1000
 
 - [Tuesday, September 10](#tuesday-september-10)
   - [Fireside Chat with the National Science Foundation](#fireside-chat-with-the-national-science-foundation)
-    - [Dr. Sylvia Spengler (Lawrence Berkeley National Laboratory)](#dr-sylvia-spengler-lawrence-berkeley-national-laboratory)
-    - [Dr. Chaitanya Baru (San Diego Supercomputer Center)](#dr-chaitanya-baru-san-diego-supercomputer-center)
-    - [Dr. Jemin George (U.S. Army Research Laboratory)](#dr-jemin-george-us-army-research-laboratory)
+    - [Dr. Sylvia Spengler (National Science Foundation)](#dr-sylvia-spengler-national-science-foundation)
+    - [Dr. Chaitanya Baru (National Science Foundation)](#dr-chaitanya-baru-national-science-foundation)
+    - [Dr. Jemin George (National Science Foundation)](#dr-jemin-george-national-science-foundation)
     - [Dr. Raleigh Martin (National Science Foundation)](#dr-raleigh-martin-national-science-foundation)
     - [Dr. Cheryl Eavey (National Science Foundation)](#dr-cheryl-eavey-national-science-foundation)
 - [Wednesday, September 11](#wednesday-september-11)
@@ -34,7 +34,7 @@ weight: 1000
 - Moderator: [Tanya Berger-Wolf](https://cse.osu.edu/people/berger-wolf.1) (The Ohio State University)
 - Activity page: [https://indico.cern.ch/event/1364455/contributions/6092994](https://indico.cern.ch/event/1364455/contributions/6092994)
 
-### Dr. Sylvia Spengler (Lawrence Berkeley National Laboratory)
+### Dr. Sylvia Spengler (National Science Foundation)
 [Director, Division of Information and Intelligent System (IIS), National Science Foundation](https://new.nsf.gov/staff/sspengle)
 
 {{< figure src="/images/speakers/SylviaSpengler.png" nozoom="true" >}}
@@ -45,7 +45,7 @@ Her many honors include Senior Fellow of the American Cancer Society, and Nation
 
 As part of her work with the Human Genome Project Dr. Spengler has been involved in many types of public outreach including lectures given to college students, judges, and appearances on public television.
 
-### Dr. Chaitanya Baru (San Diego Supercomputer Center)
+### Dr. Chaitanya Baru (National Science Foundation)
 [Senior Advisor, Directorate for Technology, Innovation and Partnerships (TIP), National Science Foundation](https://new.nsf.gov/staff/cbaru)
 
 {{< figure src="/images/speakers/ChaitanyaBaru.jpg" nozoom="true" >}}
@@ -56,7 +56,7 @@ While Senior Advisor in the Convergence Accelerator (CA), he was a member of the
 
 While at SDSC from 1996-2022, Dr. Baru's work was centered on translational and applied research in computer science and data science. He served in several leadership positions at SDSC. One of his research projects on big data benchmarking engaged a group of industry partners and helped establish industry’s first benchmark standard for big data, viz., TPCx-BB. Prior to joining SDSC, he worked at IBM on the DB2 Parallel Edition R&D and product team. Prior to that, he was a faculty member in the CSE Division of the EECS Department at the University of Michigan, Ann Arbor. Baru has an ME and PhD in Electrical Engineering (Computer Engineering) from the University of Florida and a BTech in Electronics Engineering from the Indian Institute of Technology, Madras.
 
-### Dr. Jemin George (U.S. Army Research Laboratory)
+### Dr. Jemin George (National Science Foundation)
 [Program Director, Directorate for Technology, Innovation and Partnerships (TIP), National Science Foundation](https://new.nsf.gov/staff/jgeorge)
 
 {{< figure src="/images/speakers/JeminGeorge.jpg" nozoom="true" >}}
