@@ -11,6 +11,7 @@ weight: 1000
     - [Dr. Chaitanya Baru (San Diego Supercomputer Center)](#dr-chaitanya-baru-san-diego-supercomputer-center)
     - [Dr. Jemin George (U.S. Army Research Laboratory)](#dr-jemin-george-us-army-research-laboratory)
     - [Dr. Raleigh Martin (National Science Foundation)](#dr-raleigh-martin-national-science-foundation)
+    - [Dr. Cheryl Eavey (National Science Foundation)](#dr-cheryl-eavey-national-science-foundation)
 - [Wednesday, September 11](#wednesday-september-11)
   - [The Role of AI, Computing and Data Infrastructure in Community Engagement](#the-role-of-ai-computing-and-data-infrastructure-in-community-engagement)
     - [George Percivall (GeoRoundtable: Spatial Web Foundation; IEEE Standards)](#george-percivall-georoundtable-spatial-web-foundation-ieee-standards)
@@ -68,6 +69,13 @@ Dr. Jemin George joined the National Science foundation in January 2022 as a det
 {{< figure src="/images/speakers/RaleighMartin.jpg" nozoom="true" >}}
 
 Dr. Raleigh Martin is a Geoscientist who serves as a Program Director for the Division of Earth Sciences (EAR) Integrated Activities Section within the Directorate for Geosciences (GEO). His research interests include Sediment Transport, Fluvial Processes, Aeolian Processes, Data Management, and Climate Change. He is an experienced researcher leveraging scientific understanding of Earth and environmental processes to inform federal, state, and local policy responses to climate change and other environmental challenges. Dedicated to making science and data more open, transparent, and accessible to advance scientific discovery and inform policy decisions.
+
+### Dr. Cheryl Eavey (National Science Foundation)
+[Program Director, Methodology, Measurement, and Statistics (MMS) Program, Division of Social and Economic Sciences, National Science Foundation](https://new.nsf.gov/staff/ceavey)
+
+{{< figure src="/images/speakers/CherylEavey.png" nozoom="true" >}}
+
+Dr. Cheryl Eavey is program director of the Methodology, Measurement, and Statistics (MMS) Program in the Division of Social and Economic Sciences at the National Science Foundation. She has been at the Foundation since 1993. In addition to MMS, Dr. Eavey has been involved in a number of cross-program and cross-directorate NSF activities, including Harnessing the Data Revolution and Cyberinfrastructure for Sustained Scientific Innovation. She has a B.S. degree in mathematics and political science from Valparaiso University, and an M.A. and Ph.D. in political science from Michigan State University. Dr. Eavey has served on the faculty of the Political Science Department at Florida State University, the Business School at Washington University in St. Louis, and the U.S. Business School in Prague (Czech Republic).
 
 ---
 # Wednesday, September 11
