@@ -10,6 +10,7 @@ weight: 1000
     - [Dr. Sylvia Spengler (Lawrence Berkeley National Laboratory)](#dr-sylvia-spengler-lawrence-berkeley-national-laboratory)
     - [Dr. Chaitanya Baru (San Diego Supercomputer Center)](#dr-chaitanya-baru-san-diego-supercomputer-center)
     - [Dr. Jemin George (U.S. Army Research Laboratory)](#dr-jemin-george-us-army-research-laboratory)
+    - [Dr. Raleigh Martin (National Science Foundation)](#dr-raleigh-martin-national-science-foundation)
 - [Wednesday, September 11](#wednesday-september-11)
   - [The Role of AI, Computing and Data Infrastructure in Community Engagement](#the-role-of-ai-computing-and-data-infrastructure-in-community-engagement)
     - [George Percivall (GeoRoundtable: Spatial Web Foundation; IEEE Standards)](#george-percivall-georoundtable-spatial-web-foundation-ieee-standards)
@@ -61,6 +62,12 @@ While at SDSC from 1996-2022, Dr. Baru's work was centered on translational and 
 
 Dr. Jemin George joined the National Science foundation in January 2022 as a detailee from the U.S. Army Combat Capability Development Command (DEVCOM) Army Research Laboratory (ARL). He currently serves as a Program Director with the Innovation and Technology Ecosystem (ITE) Division within the Directorate for Technology Innovation and Partnerships (TIP). Dr. George works closely with the TIP/ITE’s Convergence Accelerator Program in establishing and evaluating strategic initiatives/policies and serves as liaison on activities connected with Department of Defense and other agencies and sectors including private industry. Dr. George joined the Army Research Laboratory in 2010. Dr. George has been responsible for identifying technical gaps, effectively formulating, and executing basic and applied research in several areas of importance to the Army. He has served as the Army’s collaborative link to over 30 different academic/industry partners while conducting Army-relevant disruptive foundational research, which has been documented in over 120 peer-reviewed technical articles.
 
+### Dr. Raleigh Martin (National Science Foundation)
+[Program Director, Directorate for Technology, Innovation and Partnerships (TIP), National Science Foundation](https://new.nsf.gov/staff/ramartin)
+
+{{< figure src="/images/speakers/RaleighMartin.jpg" nozoom="true" >}}
+
+Dr. Raleigh Martin is a Geoscientist who serves as a Program Director for the Division of Earth Sciences (EAR) Integrated Activities Section within the Directorate for Geosciences (GEO). His research interests include Sediment Transport, Fluvial Processes, Aeolian Processes, Data Management, and Climate Change. He is an experienced researcher leveraging scientific understanding of Earth and environmental processes to inform federal, state, and local policy responses to climate change and other environmental challenges. Dedicated to making science and data more open, transparent, and accessible to advance scientific discovery and inform policy decisions.
 
 ---
 # Wednesday, September 11
