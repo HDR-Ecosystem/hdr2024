@@ -9,6 +9,7 @@ weight: 1000
   - [Fireside Chat with the National Science Foundation](#fireside-chat-with-the-national-science-foundation)
     - [Dr. Sylvia Spengler (Lawrence Berkeley National Laboratory)](#dr-sylvia-spengler-lawrence-berkeley-national-laboratory)
     - [Dr. Chaitanya Baru (San Diego Supercomputer Center)](#dr-chaitanya-baru-san-diego-supercomputer-center)
+    - [Dr. Jemin George (U.S. Army Research Laboratory)](#dr-jemin-george-us-army-research-laboratory)
 - [Wednesday, September 11](#wednesday-september-11)
   - [The Role of AI, Computing and Data Infrastructure in Community Engagement](#the-role-of-ai-computing-and-data-infrastructure-in-community-engagement)
     - [George Percivall (GeoRoundtable: Spatial Web Foundation; IEEE Standards)](#george-percivall-georoundtable-spatial-web-foundation-ieee-standards)
@@ -52,6 +53,14 @@ Dr. Chaitanya Baru is Senior Advisor in NSF's new Technology, Innovation, and Pa
 While Senior Advisor in the Convergence Accelerator (CA), he was a member of the original team that designed and launched the CA program. He was engaged in the ideation and creation of several of the early Tracks in the CA including Track A: Open Knowledge Network, Track D: Data Sharing for AI, and Track F on misinformation.
 
 While at SDSC from 1996-2022, Dr. Baru's work was centered on translational and applied research in computer science and data science. He served in several leadership positions at SDSC. One of his research projects on big data benchmarking engaged a group of industry partners and helped establish industry’s first benchmark standard for big data, viz., TPCx-BB. Prior to joining SDSC, he worked at IBM on the DB2 Parallel Edition R&D and product team. Prior to that, he was a faculty member in the CSE Division of the EECS Department at the University of Michigan, Ann Arbor. Baru has an ME and PhD in Electrical Engineering (Computer Engineering) from the University of Florida and a BTech in Electronics Engineering from the Indian Institute of Technology, Madras.
+
+### Dr. Jemin George (U.S. Army Research Laboratory)
+[Program Director, Directorate for Technology, Innovation and Partnerships (TIP), National Science Foundation](https://new.nsf.gov/staff/jgeorge)
+
+{{< figure src="/images/speakers/JeminGeorge.jpg" nozoom="true" >}}
+
+Dr. Jemin George joined the National Science foundation in January 2022 as a detailee from the U.S. Army Combat Capability Development Command (DEVCOM) Army Research Laboratory (ARL). He currently serves as a Program Director with the Innovation and Technology Ecosystem (ITE) Division within the Directorate for Technology Innovation and Partnerships (TIP). Dr. George works closely with the TIP/ITE’s Convergence Accelerator Program in establishing and evaluating strategic initiatives/policies and serves as liaison on activities connected with Department of Defense and other agencies and sectors including private industry. Dr. George joined the Army Research Laboratory in 2010. Dr. George has been responsible for identifying technical gaps, effectively formulating, and executing basic and applied research in several areas of importance to the Army. He has served as the Army’s collaborative link to over 30 different academic/industry partners while conducting Army-relevant disruptive foundational research, which has been documented in over 120 peer-reviewed technical articles.
+
 
 ---
 # Wednesday, September 11
