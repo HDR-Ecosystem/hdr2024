@@ -8,6 +8,7 @@ weight: 1000
 - [Tuesday, September 10](#tuesday-september-10)
   - [Fireside Chat with the National Science Foundation](#fireside-chat-with-the-national-science-foundation)
     - [Dr. Sylvia Spengler (Lawrence Berkeley National Laboratory)](#dr-sylvia-spengler-lawrence-berkeley-national-laboratory)
+    - [Dr. Chaitanya Baru (San Diego Supercomputer Center)](#dr-chaitanya-baru-san-diego-supercomputer-center)
 - [Wednesday, September 11](#wednesday-september-11)
   - [The Role of AI, Computing and Data Infrastructure in Community Engagement](#the-role-of-ai-computing-and-data-infrastructure-in-community-engagement)
     - [George Percivall (GeoRoundtable: Spatial Web Foundation; IEEE Standards)](#george-percivall-georoundtable-spatial-web-foundation-ieee-standards)
@@ -40,6 +41,17 @@ Sylvia Spengler is program director in Division of Information and Intelligent S
 Her many honors include Senior Fellow of the American Cancer Society, and National Institutes of Health (NIH) Postdoctoral Fellow. As a member of DOE ELSI panels, she has been involved in evaluating the ethical, legal and social implications of human genome research. Dr. Spengler's many publications include co-authorship of the DOE's Primer of Molecular Biology.
 
 As part of her work with the Human Genome Project Dr. Spengler has been involved in many types of public outreach including lectures given to college students, judges, and appearances on public television.
+
+### Dr. Chaitanya Baru (San Diego Supercomputer Center)
+[Senior Advisor, Directorate for Technology, Innovation and Partnerships (TIP), National Science Foundation](https://new.nsf.gov/staff/cbaru)
+
+{{< figure src="/images/speakers/ChaitanyaBaru.jpg" nozoom="true" >}}
+
+Dr. Chaitanya Baru is Senior Advisor in NSF's new Technology, Innovation, and Partnerships (TIP) Directorate. He joined NSF in October 2022 after a 25-year career at the San Diego Supercomputer Center, University of California, San Diego. During that period he also served on assignment at NSF--first as Senior Advisor for Data Science in the Computer and Information Science and Engineering Directorate from 2014-2018, and then as Senior Advisor for the NSF Convergence Accelerator, Office of Integrative Activities from 2019-2021. While Senior Advisor for Data Science, he co-chaired the NSF Harnessing the Data Revolution Big Idea (HDR) and played a leadership role in the NSF BIGDATA program, where he was instrumental in establishing a partnership between NSF and the four major public cloud providers, viz, AWS, Google, Microsoft Azure, and IBM. He helped initiate the HDR Data Science Corps program, was an advisor to the NSF Big Data Regional Innovations Hubs and TRIPODS programs, and supported a series of workshops on Translational Data Science. He has served as co-chair of the NIST Public Working Group on Big Data and as co-chair of the Federal NITRD Big Data Interagency Working Group (BDIWG). He was a lead organizer of the NITRD BDIWG workshop on Open Knowledge Network, which led to establishment of Track A in the Convergence Accelerator on Open Knowledge Network (OKN).
+
+While Senior Advisor in the Convergence Accelerator (CA), he was a member of the original team that designed and launched the CA program. He was engaged in the ideation and creation of several of the early Tracks in the CA including Track A: Open Knowledge Network, Track D: Data Sharing for AI, and Track F on misinformation.
+
+While at SDSC from 1996-2022, Dr. Baru's work was centered on translational and applied research in computer science and data science. He served in several leadership positions at SDSC. One of his research projects on big data benchmarking engaged a group of industry partners and helped establish industry’s first benchmark standard for big data, viz., TPCx-BB. Prior to joining SDSC, he worked at IBM on the DB2 Parallel Edition R&D and product team. Prior to that, he was a faculty member in the CSE Division of the EECS Department at the University of Michigan, Ann Arbor. Baru has an ME and PhD in Electrical Engineering (Computer Engineering) from the University of Florida and a BTech in Electronics Engineering from the Indian Institute of Technology, Madras.
 
 ---
 # Wednesday, September 11
