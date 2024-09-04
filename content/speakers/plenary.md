@@ -134,19 +134,29 @@ weight: 1000
 - [Website](https://u.osu.edu/campolongo-4)
 
 ## Dr. Sara Ayman Metwalli (Argonne National Laboratory)
-<h4><i>Quantum Computing Researcher, Educator, and Science Communicator</i><br></h4>
+[Quantum Computing Researcher, Educator, and Science Communicator](https://www.anl.gov/profile/sara-ayman-fathi-mohamed-metwalli)
 {{< figure src="/images/speakers/SaraMetwalli.jpg" nozoom="true" >}}
 
-- Presentation: [Science Communication](https://indico.cern.ch/event/1364455/contributions/6089811)
-- [Website](https://www.anl.gov/profile/sara-ayman-fathi-mohamed-metwalli)
+### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+[Communicating Science: Effective Delivery To Any Audience](https://indico.cern.ch/event/1364455/contributions/6089811)
 
-Sara Ayman Metwalli has a Ph.D. in Quantum Computing at Keio University, Japan, where she focused on developing and optimizing quantum algorithms and debugging tools for Noisy Intermediate-Scale Quantum (NISQ) devices. Sara has made significant contributions to quantum information science, particularly in the areas of quantum error correction and fault-tolerance. Her work has been published in leading journals and presented at international conferences, highlighting her role as an emerging leader in the quantum computing field.
+### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
+<p><i>
+Dr. Sara Ayman Metwalli has a Ph.D. in Quantum Computing at Keio University, Japan, where she focused on developing and optimizing quantum algorithms and debugging tools for Noisy Intermediate-Scale Quantum (NISQ) devices. Sara has made significant contributions to quantum information science, particularly in the areas of quantum error correction and fault-tolerance. Her work has been published in leading journals and presented at international conferences, highlighting her role as an emerging leader in the quantum computing field.
+</p></i>
 
+<p><i>
 In addition to her research, Sara has a strong commitment to STEM education and outreach. She has extensive experience as an educator, teaching programming and quantum computing to a wide range of students, from K-12 to university graduates. Sara is passionate about increasing diversity in STEM and has actively worked to create inclusive educational environments that empower underrepresented groups to pursue careers in science and technology.
+</p></i>
 
 ## Dr. Alex Pak (Colorado School of Mines)
-<h4><i>Assistant Professor, Chemical and Biological Engineering</i><br></h4>
+[Assistant Professor, Chemical and Biological Engineering](https://chemeng.mines.edu/project/pak-alexander)
 {{< figure src="/images/speakers/AlexPak.jpg" nozoom="true" >}}
 
-- Presentation: [HDR Education Repository](https://indico.cern.ch/event/1364455/contributions/6093060)
-- [Website](https://chemeng.mines.edu/project/pak-alexander)
+### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+[Promoting Educational and Outreach Activities throughout the HDR Institutes via a Centralized Repository](https://indico.cern.ch/event/1364455/contributions/6093060)
+
+### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
+<p><i>
+Dr. Alex Pak is an Assistant Professor in Chemical and Biological Engineering at the Colorado School of Mines. The “bottom-up” design of soft materials from self-assembled and/or self-organized molecular building blocks has broad applications in energy, sustainability, and healthcare. Thermodynamic and kinetic control over molecular structures, which can be hierarchical or dynamical in nature, presents new opportunities to explore emergent properties in these materials. Our vision is to rationally engineer materials through modification of molecular building blocks and environmental factors during preparation and operation. To do so, we interrogate the fundamental connections between microscopic interactions and macroscopic behavior under equilibrium and non-equilibrium conditions. Our strategy is to develop and apply multiscale computational techniques – in particular, atomistic and coarse-grained simulations – to study structure-dynamics-function relationships and to identify guiding principles for materials tailored to specific applications. Current research interests include the design of plastic crystal electrolytes for electrochemical applications and the design of protein-based lattices for biomedical applications.  
+</p></i>
