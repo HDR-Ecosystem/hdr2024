@@ -25,11 +25,11 @@ weight: 1000
   - [Dr. Sara Ayman Metwalli (Argonne National Laboratory)](#dr-sara-ayman-metwalli-argonne-national-laboratory)
   - [Dr. Alex Pak (Colorado School of Mines)](#dr-alex-pak-colorado-school-of-mines)
 
-<hr style="border:3px solid yellow">
+<hr style="border:3px solid orange">
 
 # Tuesday, September 10
 
-<hr style="border:3px solid yellow">
+<hr style="border:3px solid orange">
 
 
 ## Dr. Mark Neubauer (University of Illinois)
@@ -140,11 +140,11 @@ Dr. Mark Neubauer is a professor and particle physicist at the University of Ill
 <p><i>
 </p></i>
 
-<hr style="border:3px solid yellow">
+<hr style="border:3px solid orange">
 
 # Wednesday, September 11
 
-<hr style="border:3px solid yellow">
+<hr style="border:3px solid orange">
 
 ## Dr. Katerina Antypas (Lawrence Berkeley National Laboratory)
 <h4><i>Director of the Office of Advanced Cyberinfrastructure, National Science Foundation</i><br></h4>
