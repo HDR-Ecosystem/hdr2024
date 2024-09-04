@@ -25,41 +25,77 @@ weight: 1000
   - [Dr. Sara Ayman Metwalli (Argonne National Laboratory)](#dr-sara-ayman-metwalli-argonne-national-laboratory)
   - [Dr. Alex Pak (Colorado School of Mines)](#dr-alex-pak-colorado-school-of-mines)
 
+<hr style="border:3px solid yellow">
+
 # Tuesday, September 10
 
+<hr style="border:3px solid yellow">
+
+
 ## Dr. Mark Neubauer (University of Illinois)
-<h4><i>Professor of Physics, Electrical and Computer Engineering, National Center for Supercomputing Applications</i><br></h4>
+[Professor of Physics, Electrical and Computer Engineering, National Center for Supercomputing Applications](https://www.marksneubauer.com)
 {{< figure src="/images/organizers-staff/MarkNeubauer.jpg" nozoom="true" >}}
 
-- Presentation: [Welcome and Introduction](https://indico.cern.ch/event/1364455/contributions/6068824)
-- [Website](https://www.marksneubauer.com)
+### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+[Welcome and Introduction](https://indico.cern.ch/event/1364455/contributions/6068824)
+
+### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
+<p><i>
+Dr. Mark Neubauer is a professor and particle physicist at the University of Illinois at Urbana-Champaign. His is also affiliated faculty with the National Center for Supercomputing Applications and the Department of Electrical and Computer Engineering. Generally speaking, his research aims to understand the universe at its most fundamental level, including the constituents of matter and their interactions. His current research is to search for physics beyond the standard model through a detailed study of high-energy proton-proton collisions at CERN’s Large Hadron Collider. His research group searches for new physics using data from the ATLAS Experiment, with an emphasis on the Higgs boson as a sensitive new tool and applications of machine learning to enhance our sensitivity. His group is also working to improve the experimental methods and apparatus in high-energy physics, including advancing scientific software and computing and developing fast electronics for highly-parallelized systems that track charged particles at the LHC. He is also passionate about outreach and education in STEM fields, especially the creative use of technologies from data science to improve physics education.
+</p></i>
+
+---
 
 ## Dr. Rashid Bashir (University of Illinois)
-<h4><i>Grainger Distinguished Chair in Engineering Dean, College of Engineering</i><br></h4>
+[Grainger Distinguished Chair in Engineering Dean, College of Engineering](https://ece.illinois.edu/about/directory/faculty/rbashir)
 {{< figure src="/images/speakers/RashidBashir.png" nozoom="true" >}}
 
-- Presentation: [Welcome from the Dean of the College of Engineering](https://indico.cern.ch/event/1364455/contributions/6068825)
-- [Website](https://ece.illinois.edu/about/directory/faculty/rbashir)
+### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+[Welcome from the Dean of the College of Engineering](https://indico.cern.ch/event/1364455/contributions/6068825)
+
+### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
+<p><i>
+</p></i>
+
+---
 
 ## TBD
-<h4><i>TBD, National Science Foundation</i><br></h4>
+[TBD, National Science Foundation]()
 
-- Presentation: [NSF Welcome and HDR Overview](https://indico.cern.ch/event/1364455/contributions/6068826)
-- [Website](https://cs.lbl.gov/news-media/news/2023/katie-antypas-to-oversee-advanced-cyberinfrastructure-at-nsf)
+### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+[NSF Welcome and HDR Overview](https://indico.cern.ch/event/1364455/contributions/6068826)
+
+### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
+<p><i>
+</p></i>
+
+---
 
 ## Dr. Shih-Chieh Hsu (University of Washington)
-<h4><i></i>Professor, Physics<br></h4>
+[Professor, Physics](https://phys.washington.edu/people/shih-chieh-hsu)
 {{< figure src="/images/organizers-staff/ShihChiehHsu.png" nozoom="true" >}}
 
-- Presentation: [A3D3](https://indico.cern.ch/event/1364455/contributions/6068838)
-- [Website](https://phys.washington.edu/people/shih-chieh-hsu)
+### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+[A3D3](https://indico.cern.ch/event/1364455/contributions/6068838)
+
+### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
+<p><i>
+</p></i>
+
+---
 
 ## Dr. Eric Toberer (Colorado School of Mines)
-<h4><i></i>Professor, Physics<br></h4>
+[Professor, Physics](https://physics.mines.edu/project/toberer-eric)
 {{< figure src="/images/organizers-staff/EricToberer.jpg" nozoom="true" >}}
 
-- Presentation: [ID4](https://indico.cern.ch/event/1364455/contributions/6068843)
-- [Website](https://physics.mines.edu/project/toberer-eric)
+### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+[ID4](https://indico.cern.ch/event/1364455/contributions/6068843)
+
+### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
+<p><i>
+</p></i>
+
+---
 
 ## Dr. Tanya Berger-Wolf (The Ohio State University)
 <h4><i></i>Professor, Computer Science and Engineering, Evolution Ecology and Organismal Biology, and Electrical and Computer Engineering<br></h4>
@@ -68,12 +104,28 @@ weight: 1000
 - Presentation: [Imageomics](https://indico.cern.ch/event/1364455/contributions/6068844)
 - [Website](https://cse.osu.edu/people/berger-wolf.1)
 
+### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+
+### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
+<p><i>
+</p></i>
+
+---
+
 ## Dr. Vandana Janeja (University of Maryland, Baltimore County)
 <h4><i></i>Professor, Information Systems<br></h4>
 {{< figure src="/images/organizers-staff/VandanaJaneja.jpg" nozoom="true" >}}
 
 - Presentation: [iHARP](https://indico.cern.ch/event/1364455/contributions/6068846)
 - [Website](https://cybersecurity.umbc.edu/vandana-janeja)
+
+### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+
+### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
+<p><i>
+</p></i>
+
+---
 
 ## Dr. Shaowen Wang (University of Illinois)
 <h4><i>Professor and Associate Dean for Life and Physical Sciences, College of Liberal Arts and Sciences</i><br></h4>
@@ -82,7 +134,17 @@ weight: 1000
 - Presentation: [I-GUIDE](https://indico.cern.ch/event/1364455/contributions/6068847)
 - [Website](https://ggis.illinois.edu/directory/profile/shaowen)
 
+### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+
+### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
+<p><i>
+</p></i>
+
+<hr style="border:3px solid yellow">
+
 # Wednesday, September 11
+
+<hr style="border:3px solid yellow">
 
 ## Dr. Katerina Antypas (Lawrence Berkeley National Laboratory)
 <h4><i>Director of the Office of Advanced Cyberinfrastructure, National Science Foundation</i><br></h4>
@@ -91,12 +153,28 @@ weight: 1000
 - Presentation: [NSF OAC and The National Artificial Intelligence Research Resource (NAIRR) Pilot](https://indico.cern.ch/event/1364455/contributions/6088332)
 - [Website](https://cs.lbl.gov/news-media/news/2023/katie-antypas-to-oversee-advanced-cyberinfrastructure-at-nsf)
 
+### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+
+### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
+<p><i>
+</p></i>
+
+---
+
 ## Dr. Franck Cappello (Argonne National Laboratory)
 <h4><i>Senior Computer Scientist / R&D Leader</i><br></h4>
 {{< figure src="/images/speakers/FranckCappello.jpg" nozoom="true" >}}
 
 - Presentation: [Frontier AI for Science Security and Technology (FASST) initiative](https://indico.cern.ch/event/1364455/contributions/6088331)
 - [Website](https://www.anl.gov/profile/franck-cappello)
+
+### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+
+### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
+<p><i>
+</p></i>
+
+---
 
 ## Dr. Deming Chen (University of Illinois)
 <h4><i>Abel Bliss Professor of Engineering Director, AMD Center of Excellence Co-lead, IIDAI Hybrid Cloud</i><br></h4>
@@ -105,12 +183,28 @@ weight: 1000
 - Presentation: [Knowledge Transfer in Device Engineering: from Academia to Industry](https://indico.cern.ch/event/1364455/contributions/6089810)
 - [Website](https://ece.illinois.edu/about/directory/faculty/dchen)
 
+### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+
+### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
+<p><i>
+</p></i>
+
+---
+
 ## Dr. Philip Harris (Massachusetts Institute of Technology)
 <h4><i>Associate Professor, Physics</i><br></h4>
 {{< figure src="/images/organizers-staff/PhilHarris.png" nozoom="true" >}}
 
 - Presentation: [Machine Learning Challenges Overview](https://indico.cern.ch/event/1364455/contributions/6088310)
 - [Website](https://physics.mit.edu/faculty/philip-harris)
+
+### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+
+### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
+<p><i>
+</p></i>
+
+---
 
 ## Dr. Yuan-Tang Chou (University of Washington)
 <h4><i>Postdoctoral Researcher, Physics</i><br></h4>
@@ -119,6 +213,14 @@ weight: 1000
 - Presentation: [Detecting Novel Astrophysical Phenomena with Gravitational Waves](https://indico.cern.ch/event/1364455/contributions/6088311)
 - [Website](https://www.linkedin.com/in/yuan-tang-chou-293716b3)
 
+### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+
+### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
+<p><i>
+</p></i>
+
+---
+
 ## Dr. Aneesh Subramanian (University of Colorado Boulder)
 <h4><i>Assistant Professor, Atmospheric and Oceanic Sciences</i><br></h4>
 {{< figure src="/images/speakers/AneeshSubramanian.png" nozoom="true" >}}
@@ -126,12 +228,28 @@ weight: 1000
 - Presentation: [Detecting Anomalous Climate Phenomena](https://indico.cern.ch/event/1364455/contributions/6088312)
 - [Website](https://www.colorado.edu/atoc/aneesh-subramanian-hehimhis)
 
+### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+
+### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
+<p><i>
+</p></i>
+
+---
+
 ## Dr. Elizabeth Campolongo (The Ohio State University)
 <h4><i>Mathematician, Data Scientist, Quantum Researcher</i><br></h4>
 {{< figure src="/images/speakers/ElizabethCampolongo.jpg" nozoom="true" >}}
 
 - Presentation: [Detecting New Species](https://indico.cern.ch/event/1364455/contributions/6088313)
 - [Website](https://u.osu.edu/campolongo-4)
+
+### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+
+### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
+<p><i>
+</p></i>
+
+---
 
 ## Dr. Sara Ayman Metwalli (Argonne National Laboratory)
 [Quantum Computing Researcher, Educator, and Science Communicator](https://www.anl.gov/profile/sara-ayman-fathi-mohamed-metwalli)
@@ -148,6 +266,8 @@ Dr. Sara Ayman Metwalli has a Ph.D. in Quantum Computing at Keio University, Jap
 <p><i>
 In addition to her research, Sara has a strong commitment to STEM education and outreach. She has extensive experience as an educator, teaching programming and quantum computing to a wide range of students, from K-12 to university graduates. Sara is passionate about increasing diversity in STEM and has actively worked to create inclusive educational environments that empower underrepresented groups to pursue careers in science and technology.
 </p></i>
+
+---
 
 ## Dr. Alex Pak (Colorado School of Mines)
 [Assistant Professor, Chemical and Biological Engineering](https://chemeng.mines.edu/project/pak-alexander)

@@ -112,7 +112,7 @@ Dr. Cheryl Eavey is program director of the Methodology, Measurement, and Statis
 - Activity page: [https://indico.cern.ch/event/1364455/sessions/559583/#20240911](https://indico.cern.ch/event/1364455/sessions/559583/#20240911)
 
 ### Francisco Iacobelli (Loyola University Chicago)
-[Associate Professor, Department of Computer Science](https://www.neiu.edu/faculty/francisco-iacobelli-phd)
+[Associate Professor, Department of Computer Science](https://lionfish-app-d46ym.ondigitalocean.app)
 {{< figure src="/images/speakers/FranciscoIacobelli.jpg" nozoom="true" >}}
 
 Francisco Iacobelli’s research focus is at the intersection of human-computer interaction, equitable AI and health disparities. In particular, intelligent tutoring systems and virtual agents that are purposefully designed for low-literacy Latino populations. Dr. Iacobelli is an associate professor with a dual appointment to the departments of Health Informatics and Data Science, and the department of Surgery at Loyola University Chicago. Iacobelli is affiliated to the Center for Advancing Safety of Machine Intelligence (CASMI) as well as the Medical Association for the Latino Advancement (MOLA). He obtained his Ph.D. in Computer Science from Northwestern University, a Ms. Sc. from DePaul University and his undergraduate degree from Universidad Diego Portales in Santiago, Chile.
