@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Registered Attendees (132)"
+title: "Registered Attendees (136)"
 weight: 90
 ---
 
@@ -138,3 +138,7 @@ weight: 90
 | Nhan Tran                | Fermi National Accelerator Laboratory                                         |
 | Zufen Wang               | Tennessee State University                                                    |
 | Claude Tameze            | Lincoln University                                                            |
+| Janina Hakenmueller      | Duke University                                                               |
+| Paea LePendu             | UC Riverside                                                                  |
+| Jacob Beattie            | The Ohio State University                                                     |
+| Stephen Baker            | University of Chicago                                                         |
