@@ -98,13 +98,11 @@ Dr. Mark Neubauer is a professor and particle physicist at the University of Ill
 ---
 
 ## Dr. Tanya Berger-Wolf (The Ohio State University)
-<h4><i></i>Professor, Computer Science and Engineering, Evolution Ecology and Organismal Biology, and Electrical and Computer Engineering<br></h4>
+[Professor, Computer Science and Engineering, Evolution Ecology and Organismal Biology, and Electrical and Computer Engineering](https://cse.osu.edu/people/berger-wolf.1)
 {{< figure src="/images/organizers-staff/TanyaBergerWolf.jpg" nozoom="true" >}}
 
-- Presentation: [Imageomics](https://indico.cern.ch/event/1364455/contributions/6068844)
-- [Website](https://cse.osu.edu/people/berger-wolf.1)
-
 ### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+[Imageomics](https://indico.cern.ch/event/1364455/contributions/6068844)
 
 ### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
 <p><i>
@@ -113,13 +111,11 @@ Dr. Mark Neubauer is a professor and particle physicist at the University of Ill
 ---
 
 ## Dr. Vandana Janeja (University of Maryland, Baltimore County)
-<h4><i></i>Professor, Information Systems<br></h4>
+[Professor, Information Systems](https://cybersecurity.umbc.edu/vandana-janeja)
 {{< figure src="/images/organizers-staff/VandanaJaneja.jpg" nozoom="true" >}}
 
-- Presentation: [iHARP](https://indico.cern.ch/event/1364455/contributions/6068846)
-- [Website](https://cybersecurity.umbc.edu/vandana-janeja)
-
 ### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+[iHARP](https://indico.cern.ch/event/1364455/contributions/6068846)
 
 ### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
 <p><i>
@@ -128,13 +124,11 @@ Dr. Mark Neubauer is a professor and particle physicist at the University of Ill
 ---
 
 ## Dr. Shaowen Wang (University of Illinois)
-<h4><i>Professor and Associate Dean for Life and Physical Sciences, College of Liberal Arts and Sciences</i><br></h4>
+[Professor and Associate Dean for Life and Physical Sciences, College of Liberal Arts and Sciences](https://ggis.illinois.edu/directory/profile/shaowen)
 {{< figure src="/images/organizers-staff/ShaowenWang.png" nozoom="true" >}}
 
-- Presentation: [I-GUIDE](https://indico.cern.ch/event/1364455/contributions/6068847)
-- [Website](https://ggis.illinois.edu/directory/profile/shaowen)
-
 ### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+[I-GUIDE](https://indico.cern.ch/event/1364455/contributions/6068847)
 
 ### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
 <p><i>
@@ -147,13 +141,11 @@ Dr. Mark Neubauer is a professor and particle physicist at the University of Ill
 <hr style="border:3px solid orange">
 
 ## Dr. Katerina Antypas (Lawrence Berkeley National Laboratory)
-<h4><i>Director of the Office of Advanced Cyberinfrastructure, National Science Foundation</i><br></h4>
+[Director of the Office of Advanced Cyberinfrastructure, National Science Foundation](https://cs.lbl.gov/news-media/news/2023/katie-antypas-to-oversee-advanced-cyberinfrastructure-at-nsf)
 {{< figure src="/images/speakers/KatieAntypas.jpg" nozoom="true" >}}
 
-- Presentation: [NSF OAC and The National Artificial Intelligence Research Resource (NAIRR) Pilot](https://indico.cern.ch/event/1364455/contributions/6088332)
-- [Website](https://cs.lbl.gov/news-media/news/2023/katie-antypas-to-oversee-advanced-cyberinfrastructure-at-nsf)
-
 ### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+[NSF OAC and The National Artificial Intelligence Research Resource (NAIRR) Pilot](https://indico.cern.ch/event/1364455/contributions/6088332)
 
 ### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
 <p><i>
@@ -162,13 +154,11 @@ Dr. Mark Neubauer is a professor and particle physicist at the University of Ill
 ---
 
 ## Dr. Franck Cappello (Argonne National Laboratory)
-<h4><i>Senior Computer Scientist / R&D Leader</i><br></h4>
+[Senior Computer Scientist / R&D Leader](https://www.anl.gov/profile/franck-cappello)
 {{< figure src="/images/speakers/FranckCappello.jpg" nozoom="true" >}}
 
-- Presentation: [Frontier AI for Science Security and Technology (FASST) initiative](https://indico.cern.ch/event/1364455/contributions/6088331)
-- [Website](https://www.anl.gov/profile/franck-cappello)
-
 ### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+[Frontier AI for Science Security and Technology (FASST) initiative](https://indico.cern.ch/event/1364455/contributions/6088331)
 
 ### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
 <p><i>
@@ -177,13 +167,11 @@ Dr. Mark Neubauer is a professor and particle physicist at the University of Ill
 ---
 
 ## Dr. Deming Chen (University of Illinois)
-<h4><i>Abel Bliss Professor of Engineering Director, AMD Center of Excellence Co-lead, IIDAI Hybrid Cloud</i><br></h4>
+[Abel Bliss Professor of Engineering Director, AMD Center of Excellence Co-lead, IIDAI Hybrid Cloud](https://ece.illinois.edu/about/directory/faculty/dchen)
 {{< figure src="/images/speakers/DemingChen.jpg" nozoom="true" >}}
 
-- Presentation: [Knowledge Transfer in Device Engineering: from Academia to Industry](https://indico.cern.ch/event/1364455/contributions/6089810)
-- [Website](https://ece.illinois.edu/about/directory/faculty/dchen)
-
 ### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+[Knowledge Transfer in Device Engineering: from Academia to Industry](https://indico.cern.ch/event/1364455/contributions/6089810)
 
 ### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
 <p><i>
@@ -192,13 +180,11 @@ Dr. Mark Neubauer is a professor and particle physicist at the University of Ill
 ---
 
 ## Dr. Philip Harris (Massachusetts Institute of Technology)
-<h4><i>Associate Professor, Physics</i><br></h4>
+[Associate Professor, Physics](https://physics.mit.edu/faculty/philip-harris)
 {{< figure src="/images/organizers-staff/PhilHarris.png" nozoom="true" >}}
 
-- Presentation: [Machine Learning Challenges Overview](https://indico.cern.ch/event/1364455/contributions/6088310)
-- [Website](https://physics.mit.edu/faculty/philip-harris)
-
 ### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+[The HDR Machine Learning Challenges: An Overview](https://indico.cern.ch/event/1364455/contributions/6088310)
 
 ### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
 <p><i>
@@ -207,13 +193,11 @@ Dr. Mark Neubauer is a professor and particle physicist at the University of Ill
 ---
 
 ## Dr. Yuan-Tang Chou (University of Washington)
-<h4><i>Postdoctoral Researcher, Physics</i><br></h4>
+[Postdoctoral Researcher, Physics](https://www.linkedin.com/in/yuan-tang-chou-293716b3)
 {{< figure src="/images/speakers/YuanTangChou.jpg" nozoom="true" >}}
 
-- Presentation: [Detecting Novel Astrophysical Phenomena with Gravitational Waves](https://indico.cern.ch/event/1364455/contributions/6088311)
-- [Website](https://www.linkedin.com/in/yuan-tang-chou-293716b3)
-
 ### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+[Detecting Novel Astrophysical Phenomena with Gravitational Waves](https://indico.cern.ch/event/1364455/contributions/6088311)
 
 ### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
 <p><i>
@@ -222,13 +206,11 @@ Dr. Mark Neubauer is a professor and particle physicist at the University of Ill
 ---
 
 ## Dr. Aneesh Subramanian (University of Colorado Boulder)
-<h4><i>Assistant Professor, Atmospheric and Oceanic Sciences</i><br></h4>
+[Assistant Professor, Atmospheric and Oceanic Sciences](https://www.colorado.edu/atoc/aneesh-subramanian-hehimhis)
 {{< figure src="/images/speakers/AneeshSubramanian.png" nozoom="true" >}}
 
-- Presentation: [Detecting Anomalous Climate Phenomena](https://indico.cern.ch/event/1364455/contributions/6088312)
-- [Website](https://www.colorado.edu/atoc/aneesh-subramanian-hehimhis)
-
 ### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+[Detecting Anomalous Climate Phenomena](https://indico.cern.ch/event/1364455/contributions/6088312)
 
 ### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
 <p><i>
@@ -237,13 +219,11 @@ Dr. Mark Neubauer is a professor and particle physicist at the University of Ill
 ---
 
 ## Dr. Elizabeth Campolongo (The Ohio State University)
-<h4><i>Mathematician, Data Scientist, Quantum Researcher</i><br></h4>
+[Mathematician, Data Scientist, Quantum Researcher](https://u.osu.edu/campolongo-4)
 {{< figure src="/images/speakers/ElizabethCampolongo.jpg" nozoom="true" >}}
 
-- Presentation: [Detecting New Species](https://indico.cern.ch/event/1364455/contributions/6088313)
-- [Website](https://u.osu.edu/campolongo-4)
-
 ### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
+[Detecting New Species](https://indico.cern.ch/event/1364455/contributions/6088313)
 
 ### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
 <p><i>
