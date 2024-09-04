@@ -115,6 +115,8 @@ Dr. Cheryl Eavey is program director of the Methodology, Measurement, and Statis
 [Associate Professor, Department of Computer Science](https://www.neiu.edu/faculty/francisco-iacobelli-phd)
 {{< figure src="/images/speakers/FranciscoIacobelli.jpg" nozoom="true" >}}
 
+Francisco Iacobelli’s research focus is at the intersection of human-computer interaction, equitable AI and health disparities. In particular, intelligent tutoring systems and virtual agents that are purposefully designed for low-literacy Latino populations. Dr. Iacobelli is an associate professor with a dual appointment to the departments of Health Informatics and Data Science, and the department of Surgery at Loyola University Chicago. Iacobelli is affiliated to the Center for Advancing Safety of Machine Intelligence (CASMI) as well as the Medical Association for the Latino Advancement (MOLA). He obtained his Ph.D. in Computer Science from Northwestern University, a Ms. Sc. from DePaul University and his undergraduate degree from Universidad Diego Portales in Santiago, Chile.
+
 ### Fernando Moreu (University of New Mexico)
 [Associate Professor, Department of Civil, Construction and Environmental Engineering](https://civil.unm.edu/faculty-staff/faculty-profiles/fernando-moreu.html)
 {{< figure src="/images/speakers/FernandoMoreu.jpg" nozoom="true" >}}
@@ -127,6 +129,10 @@ Dr. Cheryl Eavey is program director of the Methodology, Measurement, and Statis
 [Director, Baltimore Neighborhood Indicators Alliance](https://www.linkedin.com/in/amanda-phillips-de-lucas-06aba21b1)
 {{< figure src="/images/speakers/AmandaPhillipsdeLucas.jpg" nozoom="true" >}}
 
+Amanda Phillips de Lucas, Ph.D. is the Director for BNIA-JFI. Prior to this role, Amanda worked at the Cary Institute of Ecosystem Studies as a Postdoctoral Fellow. In 2018, she received her Ph.D. in Science and Technology Studies from Virginia Tech. She also has degrees from Virginia Tech (MS), NYU Gallatin (MA), and Bennington College (BA). Her dissertation examined how activists and community groups in Baltimore used technical data to protest urban interstate construction in the late 1960s and 1970s. This research was published as a chapter in Justice and the Interstates: The Racist Truth about Urban Highways (Island Press, 2023), which she also co-edited. She is a Mayoral appointee to Baltimore City’s Workforce Development Board where she co-chairs the data committee and serves on the executive council. 
+
 ### Mark Daniel Ward (Purdue University)
 [Professor of Statistics and (by courtesy) Mathematics](https://www.stat.purdue.edu/people/faculty/mdw.html)
 {{< figure src="/images/speakers/MarkDanielWard.jpg" nozoom="true" >}}
+
+Dr. Ward is a Professor of Statistics and (by courtesy) of Agricultural & Biological Engineering, Computer Science, Mathematics, and Public Health at Purdue University. My research is in probabilistic, combinatorial, and analytic techniques for the analysis of algorithms and data structures. I am also interested in data science, science of information, game theory, and large-scale computation. I currently serve as Executive Director of [The Data Mine](https://datamine.purdue.edu).
