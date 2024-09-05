@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Registered Attendees (136)"
+title: "Registered Attendees (137)"
 weight: 90
 ---
 
@@ -142,3 +142,4 @@ weight: 90
 | Zahra Khanjani           | UMBC                                                                          |
 | Zhijian Liu              | UC San Diego                                                                  |
 | Zufen Wang               | Tennessee State University                                                    |
+| Joel Kelsey              | University of Illinois at Urbana Champaign                                    |
