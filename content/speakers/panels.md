@@ -76,7 +76,7 @@ While at SDSC from 1996-2022, Dr. Baru's work was centered on translational and 
 {{< figure src="/images/speakers/AmyWalton.png" nozoom="true" >}}
 
 <p><i>
-Dr. Jemin George joined the National Science foundation in January 2022 as a detailee from the U.S. Army Combat Capability Development Command (DEVCOM) Army Research Laboratory (ARL). He currently serves as a Program Director with the Innovation and Technology Ecosystem (ITE) Division within the Directorate for Technology Innovation and Partnerships (TIP). Dr. George works closely with the TIP/ITE’s Convergence Accelerator Program in establishing and evaluating strategic initiatives/policies and serves as liaison on activities connected with Department of Defense and other agencies and sectors including private industry. Dr. George joined the Army Research Laboratory in 2010. Dr. George has been responsible for identifying technical gaps, effectively formulating, and executing basic and applied research in several areas of importance to the Army. He has served as the Army’s collaborative link to over 30 different academic/industry partners while conducting Army-relevant disruptive foundational research, which has been documented in over 120 peer-reviewed technical articles.
+Dr. Amy Walton is Deputy Office Director, Directorate for Computer and Information Science and Engineering (CISE) Office of Advanced Cyberinfrastructure (OAC)
 </p></i>
 
 ---
