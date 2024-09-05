@@ -9,7 +9,7 @@ weight: 1000
   - [Fireside Chat with the National Science Foundation](#fireside-chat-with-the-national-science-foundation)
     - [Dr. Sylvia Spengler (National Science Foundation)](#dr-sylvia-spengler-national-science-foundation)
     - [Dr. Chaitanya Baru (National Science Foundation)](#dr-chaitanya-baru-national-science-foundation)
-    - [Dr. Jemin George (National Science Foundation)](#dr-jemin-george-national-science-foundation)
+    - [Dr. Amy Walton (National Science Foundation)](#dr-amy-walton-national-science-foundation)
     - [Dr. Raleigh Martin (National Science Foundation)](#dr-raleigh-martin-national-science-foundation)
     - [Dr. Cheryl Eavey (National Science Foundation)](#dr-cheryl-eavey-national-science-foundation)
 - [Wednesday, September 11](#wednesday-september-11)
@@ -70,10 +70,10 @@ While at SDSC from 1996-2022, Dr. Baru's work was centered on translational and 
 
 ---
 
-### Dr. Jemin George (National Science Foundation)
-[Program Director, Directorate for Technology, Innovation and Partnerships (TIP), National Science Foundation](https://new.nsf.gov/staff/jgeorge)
+### Dr. Amy Walton (National Science Foundation)
+[Deputy Office Director, Directorate for Computer and Information Science and Engineering (CISE) Office of Advanced Cyberinfrastructure (OAC)](https://new.nsf.gov/staff/awalton)
 
-{{< figure src="/images/speakers/JeminGeorge.jpg" nozoom="true" >}}
+{{< figure src="/images/speakers/AmyWalton.png" nozoom="true" >}}
 
 <p><i>
 Dr. Jemin George joined the National Science foundation in January 2022 as a detailee from the U.S. Army Combat Capability Development Command (DEVCOM) Army Research Laboratory (ARL). He currently serves as a Program Director with the Innovation and Technology Ecosystem (ITE) Division within the Directorate for Technology Innovation and Partnerships (TIP). Dr. George works closely with the TIP/ITE’s Convergence Accelerator Program in establishing and evaluating strategic initiatives/policies and serves as liaison on activities connected with Department of Defense and other agencies and sectors including private industry. Dr. George joined the Army Research Laboratory in 2010. Dr. George has been responsible for identifying technical gaps, effectively formulating, and executing basic and applied research in several areas of importance to the Army. He has served as the Army’s collaborative link to over 30 different academic/industry partners while conducting Army-relevant disruptive foundational research, which has been documented in over 120 peer-reviewed technical articles.
