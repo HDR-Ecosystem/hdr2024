@@ -157,7 +157,7 @@ This panel features representatives from five NSF-funded Data Science Corps (DSC
 <hr style="border:2px solid blue">
 
 ### Francisco Iacobelli (Loyola University Chicago)
-[Associate Professor, Department of Computer Science](https://lionfish-app-d46ym.ondigitalocean.app)
+[Associate Professor, Department of Health Informatics and Data Science, and the Department of Surgery](https://lionfish-app-d46ym.ondigitalocean.app)
 {{< figure src="/images/speakers/FranciscoIacobelli.jpg" nozoom="true" >}}
 
 <p><i>
