@@ -134,7 +134,7 @@ Dr. Cheryl Eavey is program director of the Methodology, Measurement, and Statis
 ---
 
 ### Brett Bode (National Center for Supercomputing Applications)
-[Assistant Director]((https://users.ncsa.illinois.edu/bbode))
+[Assistant Director](https://users.ncsa.illinois.edu/bbode)
 {{< figure src="/images/speakers/BrettBode.jpg" nozoom="true" >}}
 
 ---
