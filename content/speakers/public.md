@@ -15,7 +15,7 @@ weight: 1000
 
 ## <span style="color:LightGreen">About the presentation</span>
 
-[TBD](https://indico.cern.ch/event/1364455/contributions/6068974)
+[Making AI Safe, Effective, and Trustworthy](https://indico.cern.ch/event/1364455/contributions/6068974)
 
 ## <span style="color:LightGreen">About the speaker</span>
 
