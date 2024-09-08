@@ -67,7 +67,7 @@ Dr. Chaitanya Baru is Senior Advisor in NSF's new Technology, Innovation, and Pa
 ---
 
 ### Dr. Amy Walton (National Science Foundation)
-[Deputy Office Director, Directorate for Computer and Information Science and Engineering (CISE) Office of Advanced Cyberinfrastructure (OAC)](https://new.nsf.gov/staff/awalton)
+[Deputy Director for the Office of Advanced Cyberinfrastructure (OAC) at the National Science Foundation](https://new.nsf.gov/staff/awalton)
 
 {{< figure src="/images/speakers/AmyWalton.png" nozoom="true" >}}
 
