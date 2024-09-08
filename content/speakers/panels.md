@@ -182,7 +182,7 @@ Francisco Iacobelli’s research focus is at the intersection of human-computer 
 
 ### Fernando Moreu (University of New Mexico)
 [Associate Professor, Department of Civil, Construction and Environmental Engineering](http://smilab.unm.edu)
-{{< figure src="/images/speakers/FernandoMoreu.jpg" nozoom="true" >}}
+{{< figure src="/images/speakers/FernandoMoreu.png" nozoom="true" >}}
 <p><i>
 Dr. Moreu is an Associate Professor at the Department of Civil, Construction, and Environmental Engineering (CCEE) at the University of New Mexico (UNM).He is the founder and director of the Smart Management of Infrastructure Laboratory (SMILab). Prof. Moreu’s research interests include structural dynamics and control, structural health monitoring, wireless smart sensor networks, cyber-physical systems, computer vision, augmented reality, unmanned aerial systems, bridge engineering, and aerospace operations. Prof. Moreu received his MS and PhD degrees in structural engineering from the University of Illinois at Urbana-Champaign (2005 and 2015, respectively). Prof. Moreu is the current Secretary of the ASCE Engineering Mechanics Institute (EMI) Technical Committee in Structural Health Monitoring and Control (SHMC) (2023-2026) and also the current secretary of the Society for Experimental Mechanics Technical Division of Dynamics of Civil Structures (2023-2025).
 </p></i>
@@ -202,7 +202,7 @@ Dr. Moreu is an Associate Professor at the Department of Civil, Construction, an
 {{< figure src="/images/speakers/AmandaPhillipsdeLucas.jpg" nozoom="true" >}}
 
 <p><i>
-Amanda Phillips de Lucas, Ph.D. is the Director for BNIA-JFI. Prior to this role, Amanda worked at the Cary Institute of Ecosystem Studies as a Postdoctoral Fellow. In 2018, she received her Ph.D. in Science and Technology Studies from Virginia Tech. She also has degrees from Virginia Tech (MS), NYU Gallatin (MA), and Bennington College (BA). Her dissertation examined how activists and community groups in Baltimore used technical data to protest urban interstate construction in the late 1960s and 1970s. This research was published as a chapter in Justice and the Interstates: The Racist Truth about Urban Highways (Island Press, 2023), which she also co-edited. She is a Mayoral appointee to Baltimore City’s Workforce Development Board where she co-chairs the data committee and serves on the executive council. 
+Dr. Phillips de Lucas is the Director for BNIA-JFI. Prior to this role, Amanda worked at the Cary Institute of Ecosystem Studies as a Postdoctoral Fellow. In 2018, she received her Ph.D. in Science and Technology Studies from Virginia Tech. She also has degrees from Virginia Tech (MS), NYU Gallatin (MA), and Bennington College (BA). Her dissertation examined how activists and community groups in Baltimore used technical data to protest urban interstate construction in the late 1960s and 1970s. This research was published as a chapter in Justice and the Interstates: The Racist Truth about Urban Highways (Island Press, 2023), which she also co-edited. She is a Mayoral appointee to Baltimore City’s Workforce Development Board where she co-chairs the data committee and serves on the executive council.
 </p></i>
 
 ---
