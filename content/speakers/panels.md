@@ -181,9 +181,10 @@ Francisco Iacobelli’s research focus is at the intersection of human-computer 
 ---
 
 ### Fernando Moreu (University of New Mexico)
-[Associate Professor, Department of Civil, Construction and Environmental Engineering](https://civil.unm.edu/faculty-staff/faculty-profiles/fernando-moreu.html)
+[Associate Professor, Department of Civil, Construction and Environmental Engineering](http://smilab.unm.edu)
 {{< figure src="/images/speakers/FernandoMoreu.jpg" nozoom="true" >}}
 <p><i>
+Dr. Moreu is an Associate Professor at the Department of Civil, Construction, and Environmental Engineering (CCEE) at the University of New Mexico (UNM).He is the founder and director of the Smart Management of Infrastructure Laboratory (SMILab). Prof. Moreu’s research interests include structural dynamics and control, structural health monitoring, wireless smart sensor networks, cyber-physical systems, computer vision, augmented reality, unmanned aerial systems, bridge engineering, and aerospace operations. Prof. Moreu received his MS and PhD degrees in structural engineering from the University of Illinois at Urbana-Champaign (2005 and 2015, respectively). Prof. Moreu is the current Secretary of the ASCE Engineering Mechanics Institute (EMI) Technical Committee in Structural Health Monitoring and Control (SHMC) (2023-2026) and also the current secretary of the Society for Experimental Mechanics Technical Division of Dynamics of Civil Structures (2023-2025).
 </p></i>
 
 ---
