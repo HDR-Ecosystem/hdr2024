@@ -72,7 +72,15 @@ Dr. Chaitanya Baru is Senior Advisor in NSF's new Technology, Innovation, and Pa
 {{< figure src="/images/speakers/AmyWalton.png" nozoom="true" >}}
 
 <p><i>
-Dr. Amy Walton is Deputy Office Director, Directorate for Computer and Information Science and Engineering (CISE) Office of Advanced Cyberinfrastructure (OAC)
+Amy Walton is Deputy Director for the Office of Advanced Cyberinfrastructure at the National Science Foundation, contributing to cross-foundational activities in which NSF has a leadership role, such as capacity building in computer and information science and engineering.  
+
+As a Program Officer, she led the Harnessing the Data Revolution initiative, emphasizing data-intensive research in science and engineering; Cyberinfrastructure for Sustained Scientific Innovation, focused upon the availability and interoperability of science data cyberinfrastructure; and EarthCube, an integrated geoscience research program.
+
+Dr. Walton also serves as Co-Chair for the Working Group on Big Data within the national Networking and Information Technology Research and Development (NITRD) Program.  The 24 NITRD member agencies invest approximately $6.5 billion annually in R&D programs.  NITRD is the primary source of federally funded R&D in advanced information technologies in computing, networking, and software. 
+
+Previously, Dr. Walton led the Earth Science Technology Office for the National Aeronautics and Space Administration, and directed a series of advanced research programs for the processing, analysis, management and visualization of Earth and space science data at the California Institute of Technology Jet Propulsion Laboratory.  In 2010 she was awarded the NASA Exceptional Service Medal for incorporating science guidance into technology development programs.
+
+She received a Ph.D. from Princeton University.
 </p></i>
 
 ---
