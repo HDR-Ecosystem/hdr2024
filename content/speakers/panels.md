@@ -38,6 +38,10 @@ weight: 1000
 - Moderator: [Tanya Berger-Wolf](https://cse.osu.edu/people/berger-wolf.1) (The Ohio State University)
 - Activity page: [https://indico.cern.ch/event/1364455/contributions/6092994](https://indico.cern.ch/event/1364455/contributions/6092994)
 
+<p><i>
+A panel of the NSF program directors bringing the NSF perspective of the history and the future of the data revolution, particularly in the context of AI revolution.
+</p></i>
+
 <hr style="border:3px solid blue">
 
 ### Dr. Sylvia Spengler (National Science Foundation)
@@ -117,11 +121,17 @@ Dr. Cheryl Eavey is program director of the Methodology, Measurement, and Statis
 - Moderator: [Anand Padmanabhan](https://ggis.illinois.edu/directory/profile/apadmana) (University of Illinoia, Urbana-Champaign)
 - Activity page: [https://indico.cern.ch/event/1364455/sessions/559581/#20240911](https://indico.cern.ch/event/1364455/sessions/559581/#20240911)
 
+A panel conversation on the future of AI in relation to technology, computing, education, and inclusion, including experts across interdisciplinary domains spanning academia and industry. 
+
 <hr style="border:2px solid blue">
 
 ### George Percivall (GeoRoundtable: Spatial Web Foundation; IEEE Standards)
-[Consultancy](https://www.linkedin.com/in/gpercivall)
+[Distinguished Engineering Fellow for the Spatial Web Foundation](https://www.linkedin.com/in/gpercivall)
 {{< figure src="/images/speakers/GeorgePercivall.jpg" nozoom="true" >}}
+
+<p><i>
+Distinguished Engineering Fellow for the Spatial Web Foundation; Formerly CTO of the Open Geospatial Consortium; currently member of leadership team for the IEEE Computer Society AI Standards Committee
+</p></i>
 
 ---
 
