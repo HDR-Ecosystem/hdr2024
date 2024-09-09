@@ -175,7 +175,7 @@ This panel features representatives from five NSF-funded Data Science Corps (DSC
 {{< figure src="/images/speakers/FranciscoIacobelli.jpg" nozoom="true" >}}
 
 <p><i>
-Francisco Iacobelli’s research focus is at the intersection of human-computer interaction, equitable AI and health disparities. In particular, intelligent tutoring systems and virtual agents that are purposefully designed for low-literacy Latino populations. Dr. Iacobelli is an associate professor with a dual appointment to the departments of Health Informatics and Data Science, and the department of Surgery at Loyola University Chicago. Iacobelli is affiliated to the Center for Advancing Safety of Machine Intelligence (CASMI) as well as the Medical Association for the Latino Advancement (MOLA). He obtained his Ph.D. in Computer Science from Northwestern University, a Ms. Sc. from DePaul University and his undergraduate degree from Universidad Diego Portales in Santiago, Chile.
+Dr. Iacobelli’s research focus is at the intersection of human-computer interaction, equitable AI and health disparities. In particular, intelligent tutoring systems and virtual agents that are purposefully designed for low-literacy Latino populations. Dr. Iacobelli is an associate professor with a dual appointment to the departments of Health Informatics and Data Science, and the department of Surgery at Loyola University Chicago. Iacobelli is affiliated to the Center for Advancing Safety of Machine Intelligence (CASMI) as well as the Medical Association for the Latino Advancement (MOLA). He obtained his Ph.D. in Computer Science from Northwestern University, a Ms. Sc. from DePaul University and his undergraduate degree from Universidad Diego Portales in Santiago, Chile.
 </p></i>
 
 ---
@@ -193,6 +193,7 @@ Dr. Moreu is an Associate Professor at the Department of Civil, Construction, an
 [Associate Professor, Department of Computer Science and Engineering](https://www.utc.edu/research/center-for-urban-informatics-and-progress/our-team/yu-liang)
 {{< figure src="/images/speakers/YuLiang.jpg" nozoom="true" >}}
 <p><i>
+Dr. Liang is a Professor in the Department of Computer Science and Engineering at the University of Tennessee at Chattanooga. His research, funded by various agencies, spans a wide range of topics, including big data and cloud computing, machine learning and artificial intelligence, quantum computing, high-performance computing, multiscale and Multiphysics modeling and simulation, numerical linear algebra, and biomedical engineering. His work has been published in prestigious journals, books, book chapters,  and symposium proceedings. Dr. Liang also serves on the editorial boards of seven international journals.
 </p></i>
 
 ---
