@@ -50,7 +50,7 @@ A panel of the NSF program directors bringing the NSF perspective of the history
 {{< figure src="/images/speakers/SylviaSpengler.png" nozoom="true" >}}
 
 <p><i>
-Sylvia Spengler is program director in Division of Information and Intelligent System (IIS) within the CISE Directorate at the National Science Foundation. She also served as program officer for the Biological Databases and Informatics in BIO/DBI. Prior to joining NSF, she was a Director of Department of Energy (DOE) Human Genome Program Field Operations. She served as Co-Director of the Program in Mathematics and Molecular Biology at the University of California, Berkeley, Lawrence Berkeley National Laboratory.
+Dr. Sylvia Spengler is program director in Division of Information and Intelligent System (IIS) within the CISE Directorate at the National Science Foundation. She also served as program officer for the Biological Databases and Informatics in BIO/DBI. Prior to joining NSF, she was a Director of Department of Energy (DOE) Human Genome Program Field Operations. She served as Co-Director of the Program in Mathematics and Molecular Biology at the University of California, Berkeley, Lawrence Berkeley National Laboratory.
 
 Her many honors include Senior Fellow of the American Cancer Society, and National Institutes of Health (NIH) Postdoctoral Fellow. As a member of DOE ELSI panels, she has been involved in evaluating the ethical, legal and social implications of human genome research. Dr. Spengler's many publications include co-authorship of the DOE's Primer of Molecular Biology.
 
@@ -76,7 +76,7 @@ Dr. Chaitanya Baru is Senior Advisor in NSF's new Technology, Innovation, and Pa
 {{< figure src="/images/speakers/AmyWalton.png" nozoom="true" >}}
 
 <p><i>
-Amy Walton is Deputy Director for the Office of Advanced Cyberinfrastructure at the National Science Foundation, contributing to cross-foundational activities in which NSF has a leadership role, such as capacity building in computer and information science and engineering.  
+Dr. Amy Walton is Deputy Director for the Office of Advanced Cyberinfrastructure at the National Science Foundation, contributing to cross-foundational activities in which NSF has a leadership role, such as capacity building in computer and information science and engineering.  
 
 As a Program Officer, she led the Harnessing the Data Revolution initiative, emphasizing data-intensive research in science and engineering; Cyberinfrastructure for Sustained Scientific Innovation, focused upon the availability and interoperability of science data cyberinfrastructure; and EarthCube, an integrated geoscience research program.
 
