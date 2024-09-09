@@ -91,7 +91,7 @@ She received a Ph.D. from Princeton University.
 ---
 
 ### Dr. Raleigh L. Martin (National Science Foundation)
-[Program Director, Directorate for Technology, Innovation and Partnerships (TIP), National Science Foundation](https://new.nsf.gov/staff/ramartin)
+[Program Director, Directorate for Geosciences National Science Foundation](https://new.nsf.gov/staff/ramartin)
 
 {{< figure src="/images/speakers/RaleighMartin.jpg" nozoom="true" >}}
 
