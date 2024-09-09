@@ -15,7 +15,8 @@ weight: 1000
 - [Wednesday, September 11](#wednesday-september-11)
   - [The Role of AI, Computing and Data Infrastructure in Community Engagement](#the-role-of-ai-computing-and-data-infrastructure-in-community-engagement)
     - [George Percivall (GeoRoundtable: Spatial Web Foundation; IEEE Standards)](#george-percivall-georoundtable-spatial-web-foundation-ieee-standards)
-    - [John Fonner (Texas Advanced Computing Center)](#john-fonner-texas-advanced-computing-center)
+    - [Dr. John Fonner (Texas Advanced Computing Center)](#dr-john-fonner-texas-advanced-computing-center)
+  - [](#)
     - [Ashley Atkins (San Diego Supercomputer Center)](#ashley-atkins-san-diego-supercomputer-center)
     - [Brett Bode (National Center for Supercomputing Applications)](#brett-bode-national-center-for-supercomputing-applications)
     - [Nhan Tran (Fermi National Accelertor Laboratory)](#nhan-tran-fermi-national-accelertor-laboratory)
@@ -135,15 +136,20 @@ Distinguished Engineering Fellow for the Spatial Web Foundation; Formerly CTO of
 
 ---
 
-### John Fonner (Texas Advanced Computing Center)
+### Dr. John Fonner (Texas Advanced Computing Center)
 [Director of Special Programs](https://tacc.utexas.edu/about/staff-directory/john-fonner)
 {{< figure src="/images/speakers/JohnFonner.jpg" nozoom="true" >}}
 
+<p><i>
+Dr. John Fonner earned a Ph.D. in Biomedical Engineering at the University of Texas at Austin, where he used a blend of experimental and computational techniques to study binding interactions between peptides and conducting polymers for implant applications in the nervous system. He joined the Life Sciences Computing group at TACC in 2011 and has served on a number of projects that help life sciences researchers leverage advanced computing resources, both through training and through the development of better tools and cyberinfrastructure.
+</p></i>
 ---
 
 ### Ashley Atkins (San Diego Supercomputer Center)
 [Chief of Staff](https://www.sdsc.edu/News%20Items/PR20240507_Chief_of_Staff_Ashley_Atkins.html)
 {{< figure src="/images/speakers/AshleyAtkins.jpg" nozoom="true" >}}
+
+Ashley Atkins is Chief of State at the San Diego Supercomputing Center. As a member of the Director’s Office, Atkins provides support for and offers guidance on developing the strategic direction of the center and manages day-to-day operations needed to achieve the center’s mission. Prior to her position as SDSC’s chief of staff, Atkins was the executive director for the U.S. National Science Foundation (NSF)-funded West Big Data Innovation Hub at UC Berkeley. The collaborative effort, co-led with SDSC and the University of Washington, supports projects and partnerships across academia, industry, nonprofits and government agencies. As one of four regional big data hubs funded by the NSF, the West Hub offers a platform for an array of collaborations to take place in response to western U.S. needs related to big data innovations and ecosystems. As part of this work, Atkins led the West Hub’s sustainability planning to position core initiatives for success and long-term impact beyond the current funding period. arlier in her career, Atkins was awarded a Fulbright grant to conduct research on the water resources shared between Bulgaria and Greece. She also previously worked as a research scientist at the New Mexico State University (NMSU) New Mexico Water Resources Research Institute, where her work focused on understanding the interconnections between human and hydrologic systems.
 
 ---
 
