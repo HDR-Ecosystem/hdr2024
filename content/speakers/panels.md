@@ -21,11 +21,11 @@ weight: 1000
     - [Dr, Brett Bode (National Center for Supercomputing Applications)](#dr-brett-bode-national-center-for-supercomputing-applications)
     - [Dr. Nhan Tran (Fermi National Accelertor Laboratory)](#dr-nhan-tran-fermi-national-accelertor-laboratory)
   - [Workforce Development and Education from Data Science Corps](#workforce-development-and-education-from-data-science-corps)
-    - [Francisco Iacobelli (Loyola University Chicago)](#francisco-iacobelli-loyola-university-chicago)
+    - [Dr. Francisco Iacobelli (Loyola University Chicago)](#dr-francisco-iacobelli-loyola-university-chicago)
     - [Fernando Moreu (University of New Mexico)](#fernando-moreu-university-of-new-mexico)
-    - [Yu Liang (University of Tennessee, Chattanooga)](#yu-liang-university-of-tennessee-chattanooga)
-    - [Amanda Phillips de Lucas (Jacob France Institute)](#amanda-phillips-de-lucas-jacob-france-institute)
-    - [Mark Daniel Ward (Purdue University)](#mark-daniel-ward-purdue-university)
+    - [Dr. Yu Liang (University of Tennessee, Chattanooga)](#dr-yu-liang-university-of-tennessee-chattanooga)
+    - [Dr. Amanda Phillips de Lucas (Jacob France Institute)](#dr-amanda-phillips-de-lucas-jacob-france-institute)
+    - [Dr. Mark Daniel Ward (Purdue University)](#dr-mark-daniel-ward-purdue-university)
 
 <hr style="border:3px solid orange">
 
@@ -188,12 +188,12 @@ This panel features representatives from five NSF-funded Data Science Corps (DSC
 
 <hr style="border:2px solid blue">
 
-### Francisco Iacobelli (Loyola University Chicago)
+### Dr. Francisco Iacobelli (Loyola University Chicago)
 [Associate Professor, Department of Health Informatics and Data Science, and the Department of Surgery](https://lionfish-app-d46ym.ondigitalocean.app)
 {{< figure src="/images/speakers/FranciscoIacobelli.jpg" nozoom="true" >}}
 
 <p><i>
-Dr. Iacobelli’s research focus is at the intersection of human-computer interaction, equitable AI and health disparities. In particular, intelligent tutoring systems and virtual agents that are purposefully designed for low-literacy Latino populations. Dr. Iacobelli is an associate professor with a dual appointment to the departments of Health Informatics and Data Science, and the department of Surgery at Loyola University Chicago. Iacobelli is affiliated to the Center for Advancing Safety of Machine Intelligence (CASMI) as well as the Medical Association for the Latino Advancement (MOLA). He obtained his Ph.D. in Computer Science from Northwestern University, a Ms. Sc. from DePaul University and his undergraduate degree from Universidad Diego Portales in Santiago, Chile.
+Dr. Francisco Iacobelli’s research focus is at the intersection of human-computer interaction, equitable AI and health disparities. In particular, intelligent tutoring systems and virtual agents that are purposefully designed for low-literacy Latino populations. Dr. Iacobelli is an associate professor with a dual appointment to the departments of Health Informatics and Data Science, and the department of Surgery at Loyola University Chicago. Iacobelli is affiliated to the Center for Advancing Safety of Machine Intelligence (CASMI) as well as the Medical Association for the Latino Advancement (MOLA). He obtained his Ph.D. in Computer Science from Northwestern University, a Ms. Sc. from DePaul University and his undergraduate degree from Universidad Diego Portales in Santiago, Chile.
 </p></i>
 
 ---
@@ -202,34 +202,34 @@ Dr. Iacobelli’s research focus is at the intersection of human-computer intera
 [Associate Professor, Department of Civil, Construction and Environmental Engineering](http://smilab.unm.edu)
 {{< figure src="/images/speakers/FernandoMoreu.png" nozoom="true" >}}
 <p><i>
-Dr. Moreu is an Associate Professor at the Department of Civil, Construction, and Environmental Engineering (CCEE) at the University of New Mexico (UNM).He is the founder and director of the Smart Management of Infrastructure Laboratory (SMILab). Prof. Moreu’s research interests include structural dynamics and control, structural health monitoring, wireless smart sensor networks, cyber-physical systems, computer vision, augmented reality, unmanned aerial systems, bridge engineering, and aerospace operations. Prof. Moreu received his MS and PhD degrees in structural engineering from the University of Illinois at Urbana-Champaign (2005 and 2015, respectively). Prof. Moreu is the current Secretary of the ASCE Engineering Mechanics Institute (EMI) Technical Committee in Structural Health Monitoring and Control (SHMC) (2023-2026) and also the current secretary of the Society for Experimental Mechanics Technical Division of Dynamics of Civil Structures (2023-2025).
+Dr. Fernando Moreu is an Associate Professor at the Department of Civil, Construction, and Environmental Engineering (CCEE) at the University of New Mexico (UNM).He is the founder and director of the Smart Management of Infrastructure Laboratory (SMILab). Dr. Moreu’s research interests include structural dynamics and control, structural health monitoring, wireless smart sensor networks, cyber-physical systems, computer vision, augmented reality, unmanned aerial systems, bridge engineering, and aerospace operations. Dr. Moreu received his MS and PhD degrees in structural engineering from the University of Illinois at Urbana-Champaign (2005 and 2015, respectively). Dr. Moreu is the current Secretary of the ASCE Engineering Mechanics Institute (EMI) Technical Committee in Structural Health Monitoring and Control (SHMC) (2023-2026) and also the current secretary of the Society for Experimental Mechanics Technical Division of Dynamics of Civil Structures (2023-2025).
 </p></i>
 
 ---
 
-### Yu Liang (University of Tennessee, Chattanooga)
+### Dr. Yu Liang (University of Tennessee, Chattanooga)
 [Associate Professor, Department of Computer Science and Engineering](https://www.utc.edu/research/center-for-urban-informatics-and-progress/our-team/yu-liang)
 {{< figure src="/images/speakers/YuLiang.jpg" nozoom="true" >}}
 <p><i>
-Dr. Liang is a Professor in the Department of Computer Science and Engineering at the University of Tennessee at Chattanooga. His research, funded by various agencies, spans a wide range of topics, including big data and cloud computing, machine learning and artificial intelligence, quantum computing, high-performance computing, multiscale and Multiphysics modeling and simulation, numerical linear algebra, and biomedical engineering. His work has been published in prestigious journals, books, book chapters,  and symposium proceedings. Dr. Liang also serves on the editorial boards of seven international journals.
+Dr. Yu Liang is a Professor in the Department of Computer Science and Engineering at the University of Tennessee at Chattanooga. His research, funded by various agencies, spans a wide range of topics, including big data and cloud computing, machine learning and artificial intelligence, quantum computing, high-performance computing, multiscale and Multiphysics modeling and simulation, numerical linear algebra, and biomedical engineering. His work has been published in prestigious journals, books, book chapters, and symposium proceedings. Dr. Liang also serves on the editorial boards of seven international journals.
 </p></i>
 
 ---
 
-### Amanda Phillips de Lucas (Jacob France Institute)
+### Dr. Amanda Phillips de Lucas (Jacob France Institute)
 [Director, Baltimore Neighborhood Indicators Alliance](https://www.linkedin.com/in/amanda-phillips-de-lucas-06aba21b1)
 {{< figure src="/images/speakers/AmandaPhillipsdeLucas.jpg" nozoom="true" >}}
 
 <p><i>
-Dr. Phillips de Lucas is the Director for BNIA-JFI. Prior to this role, Amanda worked at the Cary Institute of Ecosystem Studies as a Postdoctoral Fellow. In 2018, she received her Ph.D. in Science and Technology Studies from Virginia Tech. She also has degrees from Virginia Tech (MS), NYU Gallatin (MA), and Bennington College (BA). Her dissertation examined how activists and community groups in Baltimore used technical data to protest urban interstate construction in the late 1960s and 1970s. This research was published as a chapter in Justice and the Interstates: The Racist Truth about Urban Highways (Island Press, 2023), which she also co-edited. She is a Mayoral appointee to Baltimore City’s Workforce Development Board where she co-chairs the data committee and serves on the executive council.
+Dr. Amanda Phillips de Lucas is the Director for BNIA-JFI. Prior to this role, Dr. Phillips de Lucas worked at the Cary Institute of Ecosystem Studies as a Postdoctoral Fellow. In 2018, she received her Ph.D. in Science and Technology Studies from Virginia Tech. She also has degrees from Virginia Tech (MS), NYU Gallatin (MA), and Bennington College (BA). Her dissertation examined how activists and community groups in Baltimore used technical data to protest urban interstate construction in the late 1960s and 1970s. This research was published as a chapter in Justice and the Interstates: The Racist Truth about Urban Highways (Island Press, 2023), which she also co-edited. She is a Mayoral appointee to Baltimore City’s Workforce Development Board where she co-chairs the data committee and serves on the executive council.
 </p></i>
 
 ---
 
-### Mark Daniel Ward (Purdue University)
+### Dr. Mark Daniel Ward (Purdue University)
 [Professor of Statistics and (by courtesy) Mathematics](https://www.stat.purdue.edu/people/faculty/mdw.html)
 {{< figure src="/images/speakers/MarkDanielWard.jpg" nozoom="true" >}}
 
 <p><i>
-Dr. Ward is a Professor of Statistics and (by courtesy) of Agricultural & Biological Engineering, Computer Science, Mathematics, and Public Health at Purdue University. My research is in probabilistic, combinatorial, and analytic techniques for the analysis of algorithms and data structures. I am also interested in data science, science of information, game theory, and large-scale computation. I currently serve as Executive Director of [The Data Mine](https://datamine.purdue.edu).
+Dr. Mark Ward is a Professor of Statistics and (by courtesy) of Agricultural & Biological Engineering, Computer Science, Mathematics, and Public Health at Purdue University. My research is in probabilistic, combinatorial, and analytic techniques for the analysis of algorithms and data structures. Dr. Ward is also interested in data science, science of information, game theory, and large-scale computation. He currently serve as Executive Director of [The Data Mine](https://datamine.purdue.edu).
 </p></i>
