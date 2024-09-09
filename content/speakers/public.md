@@ -38,11 +38,11 @@ Campus Instructional Facility
 1405 W Springfield Ave, Urbana, IL 61801
 [Map](https://maps.app.goo.gl/HjpRby2UG3r3xgFz7)
 
-{{< figure src="/images/speakers/CIF.jpg" nozoom="true" >}}
+{{< figure src="/images/locations/CIF.jpg" nozoom="true" >}}
 
 0027/1025 Auditorium
 
-{{< figure src="/images/speakers/CIF-Auditorium.jpg" nozoom="true" >}}
+{{< figure src="/images/locations/CIF-Auditorium.jpg" nozoom="true" >}}
 
 ## <span style="color:LightGreen">For more information</span>
 
