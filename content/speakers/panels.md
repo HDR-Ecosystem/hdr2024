@@ -10,7 +10,7 @@ weight: 1000
     - [Dr. Sylvia Spengler (National Science Foundation)](#dr-sylvia-spengler-national-science-foundation)
     - [Dr. Chaitanya Baru (National Science Foundation)](#dr-chaitanya-baru-national-science-foundation)
     - [Dr. Amy Walton (National Science Foundation)](#dr-amy-walton-national-science-foundation)
-    - [Dr. Raleigh Martin (National Science Foundation)](#dr-raleigh-martin-national-science-foundation)
+    - [Dr. Raleigh L. Martin (National Science Foundation)](#dr-raleigh-l-martin-national-science-foundation)
     - [Dr. Cheryl Eavey (National Science Foundation)](#dr-cheryl-eavey-national-science-foundation)
 - [Wednesday, September 11](#wednesday-september-11)
   - [The Role of AI, Computing and Data Infrastructure in Community Engagement](#the-role-of-ai-computing-and-data-infrastructure-in-community-engagement)
@@ -90,13 +90,13 @@ She received a Ph.D. from Princeton University.
 
 ---
 
-### Dr. Raleigh Martin (National Science Foundation)
+### Dr. Raleigh L. Martin (National Science Foundation)
 [Program Director, Directorate for Technology, Innovation and Partnerships (TIP), National Science Foundation](https://new.nsf.gov/staff/ramartin)
 
 {{< figure src="/images/speakers/RaleighMartin.jpg" nozoom="true" >}}
 
 <p><i>
-Dr. Raleigh Martin is a Geoscientist who serves as a Program Director for the Division of Earth Sciences (EAR) Integrated Activities Section within the Directorate for Geosciences (GEO). His research interests include Sediment Transport, Fluvial Processes, Aeolian Processes, Data Management, and Climate Change. He is an experienced researcher leveraging scientific understanding of Earth and environmental processes to inform federal, state, and local policy responses to climate change and other environmental challenges. Dedicated to making science and data more open, transparent, and accessible to advance scientific discovery and inform policy decisions.
+Dr. Raleigh L. Martin is a Program Director in the Division of Earth Sciences (EAR) in the Directorate for Geosciences (GEO). Raleigh’s NSF portfolio includes programs related to open science, data management, and computing in the geosciences. In EAR, he leads the Geoinformatics program, which supports cyberinfrastructure for Earth Sciences research and education. He is also a member of the GEO Cyberinfrastructure (GEO CI) Incubator in GEO’s Division of Research, Innovation, Synergies, and Education (RISE), which supports cross-cutting efforts to promote open, inclusive, computationally enabled, and data-driven research and education in the geosciences, including programs focused on open science and innovative uses of AI (artificial intelligence) for the geosciences. Prior to his current role, Raleigh served as the 2019-20 an American Geosciences Institute (AGI) Congressional Geoscience Fellow in the U.S. House of Representatives, and prior to that as a 2017-2019 American Association for the Advancement of Science (AAAS) Science & Technology Policy Fellowship in NSF/GEO. Raleigh’s research background is in wind- and water-driven processes that shape the Earth’s surface, including postdoctoral research at the University of California, Los Angeles (UCLA), and a Ph.D. from the University of Pennsylvania.
 </p></i>
 
 ---
