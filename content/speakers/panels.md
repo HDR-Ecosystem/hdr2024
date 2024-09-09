@@ -18,8 +18,8 @@ weight: 1000
     - [Dr. John Fonner (Texas Advanced Computing Center)](#dr-john-fonner-texas-advanced-computing-center)
   - [](#)
     - [Ashley Atkins (San Diego Supercomputer Center)](#ashley-atkins-san-diego-supercomputer-center)
-    - [Brett Bode (National Center for Supercomputing Applications)](#brett-bode-national-center-for-supercomputing-applications)
-    - [Nhan Tran (Fermi National Accelertor Laboratory)](#nhan-tran-fermi-national-accelertor-laboratory)
+    - [Dr, Brett Bode (National Center for Supercomputing Applications)](#dr-brett-bode-national-center-for-supercomputing-applications)
+    - [Dr. Nhan Tran (Fermi National Accelertor Laboratory)](#dr-nhan-tran-fermi-national-accelertor-laboratory)
   - [Workforce Development and Education from Data Science Corps](#workforce-development-and-education-from-data-science-corps)
     - [Francisco Iacobelli (Loyola University Chicago)](#francisco-iacobelli-loyola-university-chicago)
     - [Fernando Moreu (University of New Mexico)](#fernando-moreu-university-of-new-mexico)
@@ -153,15 +153,27 @@ Ashley Atkins is Chief of State at the San Diego Supercomputing Center. As a mem
 
 ---
 
-### Brett Bode (National Center for Supercomputing Applications)
+### Dr, Brett Bode (National Center for Supercomputing Applications)
 [Assistant Director](https://users.ncsa.illinois.edu/bbode)
 {{< figure src="/images/speakers/BrettBode.jpg" nozoom="true" >}}
 
+<p><i>
+Dr. Brett Bode is Assistant Director of the National Center for Supercomputing Applications. Dr. Bode received a BS in Chemistry and Physics in 1993 from Illinois State University and a Ph.D. in Physical Chemistry in 1998 from Iowa State University. His  thesis in Theoretical Chemistry focused on enhancing computational chemistry via enhanced methods such as a new ECP code allowing analytic second derivatives and through a better interface via my [MacMolPlt](http://www.scl.ameslab.gov/~brett/MacMolPlt) program.
+
+In December 1998, Dr. Bode joined the [Scalable Computing Laboratory](http://www.scl.ameslab.gov) at [Ames Laboratory](http://www.ameslab.gov) as an Assistant Scientist. In September 2000 he was promoted to Associate Scientist, and in 2007, he was promoted to Scientist. His research in the SCL was focused on delivering more usable computing cycles to scientific applications. In particular, his work examined two significant problems on today's parallel computing systems. First is communication performance through technologies such as OpenFabrics. Second is the management software for parallel computer systems including node configuration and batch systems.
+
+In September 2008, Dr. Bode joined the National Center for Supercomputing Applications at the University of Illinois. At the NCSA I started as the manager of the system and tools software development for the [Blue Waters project](http://www.ncsa.illinois.edu/BlueWaters). In 2012, Dr. Bode took the role of division director for the newly formed Advanced Digital Services Directorite.
+</p></i>
+
 ---
 
-### Nhan Tran (Fermi National Accelertor Laboratory)
-[Director of Real-Time Processing Systems Division](https://cms.fnal.gov/nhan-tran)
+### Dr. Nhan Tran (Fermi National Accelertor Laboratory)
+[Director of the Real-Time Processing Systems Division](https://cms.fnal.gov/nhan-tran)
 {{< figure src="/images/speakers/NhanTran.png" nozoom="true" >}}
+
+<p><i>
+Dr. Nhan Tran is currently Director of the Real-Time Processing Systems Division at Fermilab. He completed his undergraduate degree in physics from Princeton University in 2005 and his Ph.D. from Johns Hopkins University in 2011, working on the compact muon solenoid (CMS) experiment at the Large Hadron Collider (LHC). He continued his work on the CMS experiment as a postdoctoral researcher at Fermilab. Tran’s research focus is on using accelerator-based experiments to search for new phenomena. He made significant contributions to the discovery and characterization of the Higgs boson at the LHC. He has worked on techniques and tools at the LHC to broadly enhance the physics capability: advancing the deployment of jet substructure tools, developing novel pileup mitigation techniques, and establishing tools to employ and accelerate machine learning in trigger electronics and computing. He has been involved in original analyses at the LHC to search for light dijet resonances and explore Higgs couplings at high momentum. Dr. Tran is a recipient of the URA Tollestrup Award, the APS Henry Primakoff Award, and the DOE Early Career Award.
+</p></i>
 
 <hr style="border:2px solid blue">
 
