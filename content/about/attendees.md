@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Registered Attendees (140)"
+title: "Registered Attendees (141)"
 weight: 90
 ---
 
@@ -146,3 +146,4 @@ weight: 90
 | Ryan Horns               | The Ohio State University                                                     |
 | Mitra Taheri             | Johns Hopkins University                                                      |
 | Jiawei Han               | UIUC                                                                          |
+| Lan Zhao                 | Purdue University                                                             |
