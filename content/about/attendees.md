@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Registered Attendees (141)"
+title: "Registered Attendees (142)"
 weight: 90
 ---
 
@@ -147,3 +147,4 @@ weight: 90
 | Mitra Taheri             | Johns Hopkins University                                                      |
 | Jiawei Han               | UIUC                                                                          |
 | Lan Zhao                 | Purdue University                                                             |
+| Jacob Beattie            | The Ohio State University                                                     |
