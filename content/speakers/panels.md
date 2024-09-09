@@ -22,7 +22,7 @@ weight: 1000
     - [Dr. Nhan Tran (Fermi National Accelertor Laboratory)](#dr-nhan-tran-fermi-national-accelertor-laboratory)
   - [Workforce Development and Education from Data Science Corps](#workforce-development-and-education-from-data-science-corps)
     - [Dr. Francisco Iacobelli (Loyola University Chicago)](#dr-francisco-iacobelli-loyola-university-chicago)
-    - [Fernando Moreu (University of New Mexico)](#fernando-moreu-university-of-new-mexico)
+    - [Dr. Fernando Moreu (University of New Mexico)](#dr-fernando-moreu-university-of-new-mexico)
     - [Dr. Yu Liang (University of Tennessee, Chattanooga)](#dr-yu-liang-university-of-tennessee-chattanooga)
     - [Dr. Amanda Phillips de Lucas (Jacob France Institute)](#dr-amanda-phillips-de-lucas-jacob-france-institute)
     - [Dr. Mark Daniel Ward (Purdue University)](#dr-mark-daniel-ward-purdue-university)
@@ -131,7 +131,7 @@ A panel conversation on the future of AI in relation to technology, computing, e
 {{< figure src="/images/speakers/GeorgePercivall.jpg" nozoom="true" >}}
 
 <p><i>
-Distinguished Engineering Fellow for the Spatial Web Foundation; Formerly CTO of the Open Geospatial Consortium; currently member of leadership team for the IEEE Computer Society AI Standards Committee
+George Percivall is a Distinguished Engineering Fellow for the Spatial Web Foundation. He was formerly Chief Technical Officer of the Open Geospatial Consortium and is currently a member of leadership team for the IEEE Computer Society AI Standards Committee.
 </p></i>
 
 ---
@@ -198,7 +198,7 @@ Dr. Francisco Iacobelli’s research focus is at the intersection of human-compu
 
 ---
 
-### Fernando Moreu (University of New Mexico)
+### Dr. Fernando Moreu (University of New Mexico)
 [Associate Professor, Department of Civil, Construction and Environmental Engineering](http://smilab.unm.edu)
 {{< figure src="/images/speakers/FernandoMoreu.png" nozoom="true" >}}
 <p><i>
