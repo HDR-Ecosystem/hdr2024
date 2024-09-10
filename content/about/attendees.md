@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Registered Attendees (143)"
+title: "Registered Attendees (144)"
 weight: 90
 ---
 
@@ -117,7 +117,7 @@ weight: 90
 | Anand Padmanabhan        | University of Illinois at Urbana Champaign                                    |
 | Vipin Kumar              | University of Minnesota                                                       |
 | Alexander Michels        | I-GUIDE & UIUC                                                                |
-| Nattapon  Jaroenchai     | University of Illinois Urbana-Champaign                                       |
+| Nattapon Jaroenchai      | University of Illinois Urbana-Champaign                                       |
 | Mike Williams            | MIT                                                                           |
 | Leanna House             | Virginia Tech                                                                 |
 | John MacMullen           | University of Illinois                                                        |
@@ -149,3 +149,4 @@ weight: 90
 | Lan Zhao                 | Purdue University                                                             |
 | Jacob Beattie            | The Ohio State University                                                     |
 | Brett Bode               | NCSA, University of Illinois                                                  |
+| Xiaolin Liu              | University of Illinois Urbana-Champaign                                       |

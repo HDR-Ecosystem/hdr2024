@@ -54,7 +54,7 @@ Room location: 0027/1025 Auditorium
 
 ## <span style="color:LightGreen">Remote connection</span>
 
-Please check back here closer to the event for Zoom webinar information
+[Zoom link](https://illinois.zoom.us/j/83470001928?pwd=XZqyiWdjmyGmNBNWPrcaF2R9GkaIrs.1)
 
 ## <span style="color:LightGreen">For more information</span>
 
