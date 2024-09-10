@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Registered Attendees (142)"
+title: "Registered Attendees (143)"
 weight: 90
 ---
 
@@ -148,3 +148,4 @@ weight: 90
 | Jiawei Han               | UIUC                                                                          |
 | Lan Zhao                 | Purdue University                                                             |
 | Jacob Beattie            | The Ohio State University                                                     |
+| Brett Bode               | NCSA, University of Illinois                                                  |
