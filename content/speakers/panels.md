@@ -104,8 +104,6 @@ Dr. Raleigh L. Martin is a Program Director in the Division of Earth Sciences (E
 ### Dr. Cheryl Eavey (National Science Foundation)
 [Program Director, Methodology, Measurement, and Statistics (MMS) Program, Division of Social and Economic Sciences, National Science Foundation](https://new.nsf.gov/staff/ceavey)
 
-{{< figure src="/images/speakers/CherylEavey.png" nozoom="true" >}}
-
 <p><i>
 Dr. Cheryl Eavey is program director of the Methodology, Measurement, and Statistics (MMS) Program in the Division of Social and Economic Sciences at the National Science Foundation. She has been at the Foundation since 1993. In addition to MMS, Dr. Eavey has been involved in a number of cross-program and cross-directorate NSF activities, including Harnessing the Data Revolution and Cyberinfrastructure for Sustained Scientific Innovation. She has a B.S. degree in mathematics and political science from Valparaiso University, and an M.A. and Ph.D. in political science from Michigan State University. Dr. Eavey has served on the faculty of the Political Science Department at Florida State University, the Business School at Washington University in St. Louis, and the U.S. Business School in Prague (Czech Republic).
 </p></i>
