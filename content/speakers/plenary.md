@@ -8,7 +8,7 @@ weight: 1000
 - [Tuesday, September 10](#tuesday-september-10)
   - [Dr. Mark Neubauer (University of Illinois)](#dr-mark-neubauer-university-of-illinois)
   - [Dr. Rashid Bashir (University of Illinois)](#dr-rashid-bashir-university-of-illinois)
-  - [TBD](#tbd)
+  - [Dr. Amy Walton (National Science Foundation)](#dr-amy-walton-national-science-foundation)
   - [Dr. Shih-Chieh Hsu (University of Washington)](#dr-shih-chieh-hsu-university-of-washington)
   - [Dr. Eric Toberer (Colorado School of Mines)](#dr-eric-toberer-colorado-school-of-mines)
   - [Dr. Tanya Berger-Wolf (The Ohio State University)](#dr-tanya-berger-wolf-the-ohio-state-university)
@@ -59,15 +59,31 @@ Dr. Mark Neubauer is a professor and particle physicist at the University of Ill
 
 ---
 
-## TBD
-[TBD, National Science Foundation]()
+## Dr. Amy Walton (National Science Foundation)
+[Deputy Director for the Office of Advanced Cyberinfrastructure (OAC) at the National Science Foundation](https://new.nsf.gov/staff/awalton)
+{{< figure src="/images/speakers/AmyWalton.png" nozoom="true" >}}
 
 ### <span style="color:LightGreen">About the presentation</span><!-- omit in toc -->
 [NSF Welcome and HDR Overview](https://indico.cern.ch/event/1364455/contributions/6068826)
 
 ### <span style="color:LightGreen">About the speaker</span><!-- omit in toc -->
 <p><i>
+Dr. Amy Walton is Deputy Director for the Office of Advanced Cyberinfrastructure at the National Science Foundation, contributing to cross-foundational activities in which NSF has a leadership role, such as capacity building in computer and information science and engineering.  
+
+As a Program Officer, she led the Harnessing the Data Revolution initiative, emphasizing data-intensive research in science and engineering; Cyberinfrastructure for Sustained Scientific Innovation, focused upon the availability and interoperability of science data cyberinfrastructure; and EarthCube, an integrated geoscience research program.
+
+Dr. Walton also serves as Co-Chair for the Working Group on Big Data within the national Networking and Information Technology Research and Development (NITRD) Program.  The 24 NITRD member agencies invest approximately $6.5 billion annually in R&D programs.  NITRD is the primary source of federally funded R&D in advanced information technologies in computing, networking, and software. 
+
+Previously, Dr. Walton led the Earth Science Technology Office for the National Aeronautics and Space Administration, and directed a series of advanced research programs for the processing, analysis, management and visualization of Earth and space science data at the California Institute of Technology Jet Propulsion Laboratory.  In 2010 she was awarded the NASA Exceptional Service Medal for incorporating science guidance into technology development programs.
+
+She received a Ph.D. from Princeton University.
 </p></i>
+
+
+
+
+
+
 
 ---
 
