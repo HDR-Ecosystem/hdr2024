@@ -34,3 +34,9 @@ There are three tiers of sponsorship. The benefits of each are shown below:
 - Acknowledge sponsors in the Opening/Closing sessions and Public Lecture
 - Acknowledgement in the  post-conference Whitepaper and the YouTube videos
 
+### <span style="color:LightGreen">ML Challenge Tier</span> (Hardware Donations, Cloud Credits or Monetary)
+
+- Your name will be listed on the ML Challenge website as a sponsor
+- You will be listed as a sponsor at the planned ML Challenge awards ceremony in March (planned to be AAAI workshop)
+- You will have the possibility for a demo at the planned workshop
+- An assigned member will be placed on  the organization committee of the ML Challenge workshop
