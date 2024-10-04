@@ -44,6 +44,10 @@ main:
     pageRef: /about/poster
     weight: 70
     parent: About
+  - name: Gallery
+    pageRef: /about/gallery
+    weight: 75
+    parent: About
   - name: Past Conferences
     weight: 80
     parent: About
