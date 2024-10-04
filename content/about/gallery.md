@@ -30,9 +30,9 @@ showHero: false
 
 {{< flex-content >}}
 <--->
-{{< figure src="/images/gallery/IMG_4149.png" >}}
+{{< figure src="/images/gallery/IMG_4175.png" >}}
 <--->
-{{< figure src="/images/gallery/IMG_4171.png" >}}
+{{< figure src="/images/gallery/IMG_4178.png" >}}
 <--->
-{{< figure src="/images/gallery/IMG_4173.png" >}}
+{{< figure src="/images/gallery/IMG_4186.png" >}}
 {{< /flex-content >}}
